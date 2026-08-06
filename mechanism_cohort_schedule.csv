@@ -1,0 +1,1528 @@
+Arm,Participant_ID,Event,Due_Date
+Case,039-02-0016,Case/Ctrl - Day 1,2020-07-21
+Case,039-02-0016,Case/Ctrl - Day 7,2020-07-28
+Case,039-02-0016,Case/Ctrl - Day 14,2020-08-04
+Case,039-02-0016,Case/Ctrl - Day 21,2020-08-11
+Case,039-02-0016,Case/Ctrl - Day 28,2020-08-18
+Case,039-13-0097,Case/Ctrl - Day 1,2020-09-18
+Case,039-13-0097,Case/Ctrl - Day 7,2020-09-25
+Case,039-13-0097,Case/Ctrl - Day 14,2020-10-02
+Case,039-02-0027,Case/Ctrl - Day 1,2020-10-06
+Case,039-13-0097,Case/Ctrl - Day 21,2020-10-09
+Case,039-02-0027,Case/Ctrl - Day 7,2020-10-13
+Case,039-13-0097,Case/Ctrl - Day 28,2020-10-16
+Case,039-02-0016,Case/Ctrl - Month 3,2020-10-20
+Case,039-02-0027,Case/Ctrl - Day 14,2020-10-20
+Case,039-02-0027,Case/Ctrl - Day 21,2020-10-27
+Case,039-02-0027,Case/Ctrl - Day 28,2020-11-03
+Case,039-13-0097,Case/Ctrl - Month 3,2020-12-18
+Case,039-02-0027,Case/Ctrl - Month 3,2021-01-05
+Case,039-02-2015,Case/Ctrl - Day 1,2021-01-14
+Case,039-02-0016,Case/Ctrl - Day 180,2021-01-19
+Case,039-13-0109,Case/Ctrl - Day 1,2021-01-20
+Case,039-02-2015,Case/Ctrl - Day 7,2021-01-21
+Case,039-13-0112,Case/Ctrl - Day 1,2021-01-21
+Case,039-13-0117,Case/Ctrl - Day 1,2021-01-27
+Case,039-13-0109,Case/Ctrl - Day 7,2021-01-27
+Case,039-02-2015,Case/Ctrl - Day 14,2021-01-28
+Case,039-13-0112,Case/Ctrl - Day 7,2021-01-28
+Case,039-13-0117,Case/Ctrl - Day 7,2021-02-03
+Case,039-13-0109,Case/Ctrl - Day 14,2021-02-03
+Case,039-02-2015,Case/Ctrl - Day 21,2021-02-04
+Case,039-13-0112,Case/Ctrl - Day 14,2021-02-04
+Case,039-13-0117,Case/Ctrl - Day 14,2021-02-10
+Case,039-13-0109,Case/Ctrl - Day 21,2021-02-10
+Case,039-02-2015,Case/Ctrl - Day 28,2021-02-11
+Case,039-13-0112,Case/Ctrl - Day 21,2021-02-11
+Case,039-13-0117,Case/Ctrl - Day 21,2021-02-17
+Case,039-13-0109,Case/Ctrl - Day 28,2021-02-17
+Case,039-13-0112,Case/Ctrl - Day 28,2021-02-18
+Case,039-13-0117,Case/Ctrl - Day 28,2021-02-24
+Case,039-13-0097,Case/Ctrl - Day 180,2021-03-19
+Case,039-09-3002,Case/Ctrl - Day 1,2021-03-23
+Case,039-09-3002,Case/Ctrl - Day 7,2021-03-30
+Case,039-09-3002,Case/Ctrl - Day 14,2021-04-06
+Case,039-02-0027,Case/Ctrl - Day 180,2021-04-06
+Case,039-09-3002,Case/Ctrl - Day 21,2021-04-13
+Case,039-02-2015,Case/Ctrl - Month 3,2021-04-15
+Case,039-09-3002,Case/Ctrl - Day 28,2021-04-20
+Case,039-02-0016,Case/Ctrl - Month 9,2021-04-20
+Case,039-13-0109,Case/Ctrl - Month 3,2021-04-21
+Case,039-13-0112,Case/Ctrl - Month 3,2021-04-22
+Case,039-02-0096,Case/Ctrl - Day 1,2021-04-23
+Case,039-13-0117,Case/Ctrl - Month 3,2021-04-28
+Case,039-02-0096,Case/Ctrl - Day 7,2021-04-30
+Case,039-13-3004,Case/Ctrl - Day 1,2021-05-04
+Case,039-02-2021,Case/Ctrl - Day 1,2021-05-05
+Case,039-02-0096,Case/Ctrl - Day 14,2021-05-07
+Case,039-13-3004,Case/Ctrl - Day 7,2021-05-11
+Case,039-02-2021,Case/Ctrl - Day 7,2021-05-12
+Case,039-02-0096,Case/Ctrl - Day 21,2021-05-14
+Case,039-13-3004,Case/Ctrl - Day 14,2021-05-18
+Case,039-02-2021,Case/Ctrl - Day 14,2021-05-19
+Case,039-13-3011,Case/Ctrl - Day 1,2021-05-21
+Case,039-02-0096,Case/Ctrl - Day 28,2021-05-21
+Case,039-13-3004,Case/Ctrl - Day 21,2021-05-25
+Case,039-02-2021,Case/Ctrl - Day 21,2021-05-26
+Case,039-13-3011,Case/Ctrl - Day 7,2021-05-28
+Case,039-13-3004,Case/Ctrl - Day 28,2021-06-01
+Case,039-02-2021,Case/Ctrl - Day 28,2021-06-02
+Case,039-02-2029,Case/Ctrl - Day 1,2021-06-02
+Case,039-13-3011,Case/Ctrl - Day 14,2021-06-04
+Case,039-02-2029,Case/Ctrl - Day 7,2021-06-09
+Case,039-13-3011,Case/Ctrl - Day 21,2021-06-11
+Case,039-02-2029,Case/Ctrl - Day 14,2021-06-16
+Case,039-13-0097,Case/Ctrl - Month 9,2021-06-18
+Case,039-13-3011,Case/Ctrl - Day 28,2021-06-18
+Case,039-09-3002,Case/Ctrl - Month 3,2021-06-22
+Case,039-02-2029,Case/Ctrl - Day 21,2021-06-23
+Case,039-02-2029,Case/Ctrl - Day 28,2021-06-30
+Case,039-02-0027,Case/Ctrl - Month 9,2021-07-06
+Case,039-02-2015,Case/Ctrl - Day 180,2021-07-15
+Case,039-02-0016,Case/Ctrl - Month 12,2021-07-20
+Case,039-13-0109,Case/Ctrl - Day 180,2021-07-21
+Case,039-13-0112,Case/Ctrl - Day 180,2021-07-22
+Case,039-02-0096,Case/Ctrl - Month 3,2021-07-23
+Case,039-13-0117,Case/Ctrl - Day 180,2021-07-28
+Case,039-13-3004,Case/Ctrl - Month 3,2021-08-03
+Case,039-02-2021,Case/Ctrl - Month 3,2021-08-04
+Case,039-02-0115,Case/Ctrl - Day 1,2021-08-12
+Case,039-02-0122,Case/Ctrl - Day 1,2021-08-19
+Case,039-02-0115,Case/Ctrl - Day 7,2021-08-19
+Case,039-13-3011,Case/Ctrl - Month 3,2021-08-20
+Case,039-02-0122,Case/Ctrl - Day 7,2021-08-26
+Case,039-02-0115,Case/Ctrl - Day 14,2021-08-26
+Case,039-02-2029,Case/Ctrl - Month 3,2021-09-01
+Case,039-02-0122,Case/Ctrl - Day 14,2021-09-02
+Case,039-02-0115,Case/Ctrl - Day 21,2021-09-02
+Case,039-02-0122,Case/Ctrl - Day 21,2021-09-09
+Case,039-02-0115,Case/Ctrl - Day 28,2021-09-09
+Case,039-02-0134,Case/Ctrl - Day 1,2021-09-15
+Case,039-02-0122,Case/Ctrl - Day 28,2021-09-16
+Case,039-13-0097,Case/Ctrl - Month 12,2021-09-17
+Case,039-09-3002,Case/Ctrl - Day 180,2021-09-21
+Case,039-02-0134,Case/Ctrl - Day 7,2021-09-22
+Case,039-02-0134,Case/Ctrl - Day 14,2021-09-29
+Case,039-02-0027,Case/Ctrl - Month 12,2021-10-05
+Case,039-02-0134,Case/Ctrl - Day 21,2021-10-06
+Case,039-02-0134,Case/Ctrl - Day 28,2021-10-13
+Case,039-02-2015,Case/Ctrl - Month 9,2021-10-14
+Case,039-02-0016,Case/Ctrl - Month 15,2021-10-19
+Case,039-13-0109,Case/Ctrl - Month 9,2021-10-20
+Case,039-13-0112,Case/Ctrl - Month 9,2021-10-21
+Case,039-02-0096,Case/Ctrl - Day 180,2021-10-22
+Case,039-02-0149,Case/Ctrl - Day 1,2021-10-25
+Case,039-13-0117,Case/Ctrl - Month 9,2021-10-27
+Case,039-02-0149,Case/Ctrl - Day 7,2021-11-01
+Case,039-13-3004,Case/Ctrl - Day 180,2021-11-02
+Case,039-02-2021,Case/Ctrl - Day 180,2021-11-03
+Case,039-02-0149,Case/Ctrl - Day 14,2021-11-08
+Case,039-02-0115,Case/Ctrl - Month 3,2021-11-11
+Case,039-02-0149,Case/Ctrl - Day 21,2021-11-15
+Case,039-02-0122,Case/Ctrl - Month 3,2021-11-18
+Case,039-13-3011,Case/Ctrl - Day 180,2021-11-19
+Case,039-02-0149,Case/Ctrl - Day 28,2021-11-22
+Case,039-02-2029,Case/Ctrl - Day 180,2021-12-01
+Case,039-02-0153,Case/Ctrl - Day 1,2021-12-06
+Case,039-02-0153,Case/Ctrl - Day 7,2021-12-13
+Case,039-02-0134,Case/Ctrl - Month 3,2021-12-15
+Case,039-13-0097,Case/Ctrl - Month 15,2021-12-17
+Case,039-02-0153,Case/Ctrl - Day 14,2021-12-20
+Case,039-09-3002,Case/Ctrl - Month 9,2021-12-21
+Case,039-13-0209,Case/Ctrl - Day 1,2021-12-23
+Case,039-02-0153,Case/Ctrl - Day 21,2021-12-27
+Case,039-13-0209,Case/Ctrl - Day 7,2021-12-30
+Case,039-02-0153,Case/Ctrl - Day 28,2022-01-03
+Case,039-02-0027,Case/Ctrl - Month 15,2022-01-04
+Case,039-13-0209,Case/Ctrl - Day 14,2022-01-06
+Case,039-02-2015,Case/Ctrl - Month 12,2022-01-13
+Case,039-13-0209,Case/Ctrl - Day 21,2022-01-13
+Case,039-02-0016,Case/Ctrl - Month 18,2022-01-18
+Case,039-13-0109,Case/Ctrl - Month 12,2022-01-19
+Case,039-13-0112,Case/Ctrl - Month 12,2022-01-20
+Case,039-13-0209,Case/Ctrl - Day 28,2022-01-20
+Case,039-02-0096,Case/Ctrl - Month 9,2022-01-21
+Case,039-02-0149,Case/Ctrl - Month 3,2022-01-24
+Case,039-13-0117,Case/Ctrl - Month 12,2022-01-26
+Case,039-13-3004,Case/Ctrl - Month 9,2022-02-01
+Case,039-02-2021,Case/Ctrl - Month 9,2022-02-02
+Case,039-02-0177,Case/Ctrl - Day 1,2022-02-10
+Case,039-02-0115,Case/Ctrl - Day 180,2022-02-10
+Case,039-02-0122,Case/Ctrl - Day 180,2022-02-17
+Case,039-02-0177,Case/Ctrl - Day 7,2022-02-17
+Case,039-13-0248,Case/Ctrl - Day 1,2022-02-17
+Case,039-13-3011,Case/Ctrl - Month 9,2022-02-18
+Case,039-02-0177,Case/Ctrl - Day 14,2022-02-24
+Case,039-13-0248,Case/Ctrl - Day 7,2022-02-24
+Case,039-02-2029,Case/Ctrl - Month 9,2022-03-02
+Case,039-02-0177,Case/Ctrl - Day 21,2022-03-03
+Case,039-13-0248,Case/Ctrl - Day 14,2022-03-03
+Case,039-02-0153,Case/Ctrl - Month 3,2022-03-07
+Case,039-02-0177,Case/Ctrl - Day 28,2022-03-10
+Case,039-13-0248,Case/Ctrl - Day 21,2022-03-10
+Case,039-02-0134,Case/Ctrl - Day 180,2022-03-16
+Case,039-13-0248,Case/Ctrl - Day 28,2022-03-17
+Case,039-13-0097,Case/Ctrl - Month 18,2022-03-18
+Case,039-09-3002,Case/Ctrl - Month 12,2022-03-22
+Case,039-13-0209,Case/Ctrl - Month 3,2022-03-24
+Case,039-02-0027,Case/Ctrl - Month 18,2022-04-05
+Case,039-02-2015,Case/Ctrl - Month 15,2022-04-14
+Case,039-02-0016,Case/Ctrl - Month 21,2022-04-19
+Case,039-13-0109,Case/Ctrl - Month 15,2022-04-20
+Case,039-13-0112,Case/Ctrl - Month 15,2022-04-21
+Case,039-02-0096,Case/Ctrl - Month 12,2022-04-22
+Case,039-02-0149,Case/Ctrl - Day 180,2022-04-25
+Case,039-13-0117,Case/Ctrl - Month 15,2022-04-27
+Case,039-13-3004,Case/Ctrl - Month 12,2022-05-03
+Case,039-02-2021,Case/Ctrl - Month 12,2022-05-04
+Case,039-02-0177,Case/Ctrl - Month 3,2022-05-12
+Case,039-02-0115,Case/Ctrl - Month 9,2022-05-12
+Case,039-02-0191,Case/Ctrl - Day 1,2022-05-17
+Case,039-02-0122,Case/Ctrl - Month 9,2022-05-19
+Case,039-13-0248,Case/Ctrl - Month 3,2022-05-19
+Case,039-13-3011,Case/Ctrl - Month 12,2022-05-20
+Case,039-02-0191,Case/Ctrl - Day 7,2022-05-24
+Case,039-02-0191,Case/Ctrl - Day 14,2022-05-31
+Case,039-02-2029,Case/Ctrl - Month 12,2022-06-01
+Case,039-02-0153,Case/Ctrl - Day 180,2022-06-06
+Case,039-02-0191,Case/Ctrl - Day 21,2022-06-07
+Case,039-02-0191,Case/Ctrl - Day 28,2022-06-14
+Case,039-02-0134,Case/Ctrl - Month 9,2022-06-15
+Case,039-13-0097,Case/Ctrl - Month 21,2022-06-17
+Case,039-09-3002,Case/Ctrl - Month 15,2022-06-21
+Case,039-13-0209,Case/Ctrl - Day 180,2022-06-23
+Case,039-02-0027,Case/Ctrl - Month 21,2022-07-05
+Case,039-02-2015,Case/Ctrl - Month 18,2022-07-14
+Case,039-02-0016,Case/Ctrl - Month 24,2022-07-19
+Case,039-13-0109,Case/Ctrl - Month 18,2022-07-20
+Case,039-13-0112,Case/Ctrl - Month 18,2022-07-21
+Case,039-02-0096,Case/Ctrl - Month 15,2022-07-22
+Case,039-02-0149,Case/Ctrl - Month 9,2022-07-25
+Case,039-13-0117,Case/Ctrl - Month 18,2022-07-27
+Case,039-13-3004,Case/Ctrl - Month 15,2022-08-02
+Case,039-02-2021,Case/Ctrl - Month 15,2022-08-03
+Case,039-02-0177,Case/Ctrl - Day 180,2022-08-11
+Case,039-02-0115,Case/Ctrl - Month 12,2022-08-11
+Case,039-02-0191,Case/Ctrl - Month 3,2022-08-16
+Case,039-02-0122,Case/Ctrl - Month 12,2022-08-18
+Case,039-13-0248,Case/Ctrl - Day 180,2022-08-18
+Case,039-13-3011,Case/Ctrl - Month 15,2022-08-19
+Case,039-02-2029,Case/Ctrl - Month 15,2022-08-31
+Case,039-02-0153,Case/Ctrl - Month 9,2022-09-05
+Case,039-02-0134,Case/Ctrl - Month 12,2022-09-14
+Case,039-13-0097,Case/Ctrl - Month 24,2022-09-16
+Case,039-09-3002,Case/Ctrl - Month 18,2022-09-20
+Case,039-13-0209,Case/Ctrl - Month 9,2022-09-22
+Case,039-02-0027,Case/Ctrl - Month 24,2022-10-04
+Case,039-02-2015,Case/Ctrl - Month 21,2022-10-13
+Case,039-02-0016,Case/Ctrl - Month 27,2022-10-18
+Case,039-13-0109,Case/Ctrl - Month 21,2022-10-19
+Case,039-13-0112,Case/Ctrl - Month 21,2022-10-20
+Case,039-02-0096,Case/Ctrl - Month 18,2022-10-21
+Case,039-02-0149,Case/Ctrl - Month 12,2022-10-24
+Case,039-13-0117,Case/Ctrl - Month 21,2022-10-26
+Case,039-13-3004,Case/Ctrl - Month 18,2022-11-01
+Case,039-02-2021,Case/Ctrl - Month 18,2022-11-02
+Case,039-02-0177,Case/Ctrl - Month 9,2022-11-10
+Case,039-02-0115,Case/Ctrl - Month 15,2022-11-10
+Case,039-02-0191,Case/Ctrl - Day 180,2022-11-15
+Case,039-02-0122,Case/Ctrl - Month 15,2022-11-17
+Case,039-13-0248,Case/Ctrl - Month 9,2022-11-17
+Case,039-13-3011,Case/Ctrl - Month 18,2022-11-18
+Case,039-02-2029,Case/Ctrl - Month 18,2022-11-30
+Case,039-02-0153,Case/Ctrl - Month 12,2022-12-05
+Case,039-02-0134,Case/Ctrl - Month 15,2022-12-14
+Case,039-13-0097,Case/Ctrl - Month 27,2022-12-16
+Case,039-09-3002,Case/Ctrl - Month 21,2022-12-20
+Case,039-13-0209,Case/Ctrl - Month 12,2022-12-22
+Case,039-02-0027,Case/Ctrl - Month 27,2023-01-03
+Case,039-02-2015,Case/Ctrl - Month 24,2023-01-12
+Case,039-02-0016,Case/Ctrl - Month 30,2023-01-17
+Case,039-13-0109,Case/Ctrl - Month 24,2023-01-18
+Case,039-13-0112,Case/Ctrl - Month 24,2023-01-19
+Case,039-02-0096,Case/Ctrl - Month 21,2023-01-20
+Case,039-02-0149,Case/Ctrl - Month 15,2023-01-23
+Case,039-13-0117,Case/Ctrl - Month 24,2023-01-25
+Case,039-13-3004,Case/Ctrl - Month 21,2023-01-31
+Case,039-02-2021,Case/Ctrl - Month 21,2023-02-01
+Case,039-02-0177,Case/Ctrl - Month 12,2023-02-09
+Case,039-02-0115,Case/Ctrl - Month 18,2023-02-09
+Case,039-02-0191,Case/Ctrl - Month 9,2023-02-14
+Case,039-02-0122,Case/Ctrl - Month 18,2023-02-16
+Case,039-13-0248,Case/Ctrl - Month 12,2023-02-16
+Case,039-13-3011,Case/Ctrl - Month 21,2023-02-17
+Case,039-02-2029,Case/Ctrl - Month 21,2023-03-01
+Case,039-02-0153,Case/Ctrl - Month 15,2023-03-06
+Case,039-02-0134,Case/Ctrl - Month 18,2023-03-15
+Case,039-13-0097,Case/Ctrl - Month 30,2023-03-17
+Case,039-09-3002,Case/Ctrl - Month 24,2023-03-21
+Case,039-13-0209,Case/Ctrl - Month 15,2023-03-23
+Case,039-02-0027,Case/Ctrl - Month 30,2023-04-04
+Case,039-02-2015,Case/Ctrl - Month 27,2023-04-13
+Case,039-02-0016,Case/Ctrl - Month 33,2023-04-18
+Case,039-13-0109,Case/Ctrl - Month 27,2023-04-19
+Case,039-13-0112,Case/Ctrl - Month 27,2023-04-20
+Case,039-02-0096,Case/Ctrl - Month 24,2023-04-21
+Case,039-02-0149,Case/Ctrl - Month 18,2023-04-24
+PUI,039-18-1084,PUI Day 1,2023-04-24
+Case,039-13-0117,Case/Ctrl - Month 27,2023-04-26
+PUI,039-18-1084,PUI Day 7,2023-05-01
+Case,039-13-3004,Case/Ctrl - Month 24,2023-05-02
+Case,039-02-2021,Case/Ctrl - Month 24,2023-05-03
+PUI,039-18-1084,PUI Day 14,2023-05-08
+Case,039-02-0177,Case/Ctrl - Month 15,2023-05-11
+Case,039-02-0115,Case/Ctrl - Month 21,2023-05-11
+PUI,039-18-1084,PUI Day 21,2023-05-15
+Case,039-02-0191,Case/Ctrl - Month 12,2023-05-16
+Case,039-02-0122,Case/Ctrl - Month 21,2023-05-18
+Case,039-13-0248,Case/Ctrl - Month 15,2023-05-18
+Case,039-13-3011,Case/Ctrl - Month 24,2023-05-19
+PUI,039-18-1084,PUI Day 28,2023-05-22
+Case,039-02-2029,Case/Ctrl - Month 24,2023-05-31
+Case,039-02-0153,Case/Ctrl - Month 18,2023-06-05
+Case,039-02-0134,Case/Ctrl - Month 21,2023-06-14
+Case,039-13-0097,Case/Ctrl - Month 33,2023-06-16
+Case,039-09-3002,Case/Ctrl - Month 27,2023-06-20
+Case,039-13-0209,Case/Ctrl - Month 18,2023-06-22
+Case,039-02-0027,Case/Ctrl - Month 33,2023-07-04
+Case,039-02-2015,Case/Ctrl - Month 30,2023-07-13
+Case,039-02-0016,Case/Ctrl - Month 36,2023-07-18
+Case,039-13-0109,Case/Ctrl - Month 30,2023-07-19
+Case,039-13-0112,Case/Ctrl - Month 30,2023-07-20
+Case,039-02-0096,Case/Ctrl - Month 27,2023-07-21
+Case,039-02-0149,Case/Ctrl - Month 21,2023-07-24
+PUI,039-18-1084,PUI Month 3,2023-07-24
+Case,039-13-0117,Case/Ctrl - Month 30,2023-07-26
+PUI,039-18-1140,PUI Day 1,2023-07-27
+Case,039-13-3004,Case/Ctrl - Month 27,2023-08-01
+Case,039-02-2021,Case/Ctrl - Month 27,2023-08-02
+PUI,039-18-1140,PUI Day 7,2023-08-03
+Case,039-02-0177,Case/Ctrl - Month 18,2023-08-10
+Case,039-02-0115,Case/Ctrl - Month 24,2023-08-10
+PUI,039-18-1140,PUI Day 14,2023-08-10
+Case,039-02-0191,Case/Ctrl - Month 15,2023-08-15
+Case,039-02-0122,Case/Ctrl - Month 24,2023-08-17
+Case,039-13-0248,Case/Ctrl - Month 18,2023-08-17
+PUI,039-18-1140,PUI Day 21,2023-08-17
+Case,039-13-3011,Case/Ctrl - Month 27,2023-08-18
+PUI,039-18-1140,PUI Day 28,2023-08-24
+Case,039-02-2029,Case/Ctrl - Month 27,2023-08-30
+Case,039-02-0153,Case/Ctrl - Month 21,2023-09-04
+Case,039-02-0134,Case/Ctrl - Month 24,2023-09-13
+Case,039-13-0097,Case/Ctrl - Month 36,2023-09-15
+Case,039-09-3002,Case/Ctrl - Month 30,2023-09-19
+Case,039-13-0209,Case/Ctrl - Month 21,2023-09-21
+Case,039-02-0027,Case/Ctrl - Month 36,2023-10-03
+Case,039-02-2015,Case/Ctrl - Month 33,2023-10-12
+Case,039-02-0016,Case/Ctrl - Month 39,2023-10-17
+Case,039-13-0109,Case/Ctrl - Month 33,2023-10-18
+Case,039-13-0112,Case/Ctrl - Month 33,2023-10-19
+Case,039-02-0096,Case/Ctrl - Month 30,2023-10-20
+Case,039-02-0149,Case/Ctrl - Month 24,2023-10-23
+PUI,039-18-1084,PUI Month 6,2023-10-24
+Case,039-13-0117,Case/Ctrl - Month 33,2023-10-25
+PUI,039-18-1140,PUI Month 3,2023-10-26
+Case,039-13-3004,Case/Ctrl - Month 30,2023-10-31
+Case,039-02-2021,Case/Ctrl - Month 30,2023-11-01
+Case,039-02-0177,Case/Ctrl - Month 21,2023-11-09
+Case,039-02-0115,Case/Ctrl - Month 27,2023-11-09
+PUI,039-02-1102,PUI Day 1,2023-11-10
+Case,039-02-0191,Case/Ctrl - Month 18,2023-11-14
+Case,039-02-0122,Case/Ctrl - Month 27,2023-11-16
+Case,039-13-0248,Case/Ctrl - Month 21,2023-11-16
+Case,039-13-3011,Case/Ctrl - Month 30,2023-11-17
+PUI,039-02-1102,PUI Day 7,2023-11-17
+PUI,039-18-1162,PUI Day 1,2023-11-20
+PUI,039-02-1102,PUI Day 14,2023-11-24
+PUI,039-18-1162,PUI Day 7,2023-11-27
+Case,039-02-2029,Case/Ctrl - Month 30,2023-11-29
+PUI,039-02-1102,PUI Day 21,2023-12-01
+Case,039-02-0153,Case/Ctrl - Month 24,2023-12-04
+PUI,039-18-1162,PUI Day 14,2023-12-04
+PUI,039-02-1102,PUI Day 28,2023-12-08
+PUI,039-18-1162,PUI Day 21,2023-12-11
+Case,039-02-0134,Case/Ctrl - Month 27,2023-12-13
+Case,039-13-0097,Case/Ctrl - Month 39,2023-12-15
+PUI,039-18-1162,PUI Day 28,2023-12-18
+Case,039-09-3002,Case/Ctrl - Month 33,2023-12-19
+Case,039-13-0209,Case/Ctrl - Month 24,2023-12-21
+Case,039-02-0027,Case/Ctrl - Month 39,2024-01-02
+Case,039-02-2015,Case/Ctrl - Month 36,2024-01-11
+Case,039-02-0016,Case/Ctrl - Month 42,2024-01-16
+Case,039-13-0109,Case/Ctrl - Month 36,2024-01-17
+Case,039-13-0112,Case/Ctrl - Month 36,2024-01-18
+Case,039-02-0096,Case/Ctrl - Month 33,2024-01-19
+Case,039-02-0149,Case/Ctrl - Month 27,2024-01-22
+PUI,039-18-1084,PUI Month 9,2024-01-22
+Case,039-13-0117,Case/Ctrl - Month 36,2024-01-24
+PUI,039-18-1140,PUI Month 6,2024-01-26
+Case,039-13-3004,Case/Ctrl - Month 33,2024-01-30
+Case,039-02-2021,Case/Ctrl - Month 33,2024-01-31
+Case,039-02-0177,Case/Ctrl - Month 24,2024-02-08
+Case,039-02-0115,Case/Ctrl - Month 30,2024-02-08
+PUI,039-02-1102,PUI Month 3,2024-02-09
+Case,039-02-0191,Case/Ctrl - Month 21,2024-02-13
+Case,039-02-0122,Case/Ctrl - Month 30,2024-02-15
+Case,039-13-0248,Case/Ctrl - Month 24,2024-02-15
+Case,039-13-3011,Case/Ctrl - Month 33,2024-02-16
+PUI,039-18-1162,PUI Month 3,2024-02-19
+Case,039-02-2029,Case/Ctrl - Month 33,2024-02-28
+Case,039-02-0153,Case/Ctrl - Month 27,2024-03-04
+Case,039-02-0134,Case/Ctrl - Month 30,2024-03-13
+Case,039-13-0097,Case/Ctrl - Month 42,2024-03-15
+Case,039-09-3002,Case/Ctrl - Month 36,2024-03-19
+Case,039-13-0209,Case/Ctrl - Month 27,2024-03-21
+Case,039-02-0027,Case/Ctrl - Month 42,2024-04-02
+Case,039-02-2015,Case/Ctrl - Month 39,2024-04-11
+Case,039-02-0016,Case/Ctrl - Month 45,2024-04-16
+Case,039-13-0109,Case/Ctrl - Month 39,2024-04-17
+Case,039-13-0112,Case/Ctrl - Month 39,2024-04-18
+Case,039-02-0096,Case/Ctrl - Month 36,2024-04-19
+Case,039-02-0149,Case/Ctrl - Month 30,2024-04-22
+PUI,039-18-1084,PUI Month 12,2024-04-22
+Case,039-13-0117,Case/Ctrl - Month 39,2024-04-24
+PUI,039-18-1140,PUI Month 9,2024-04-25
+Case,039-13-3004,Case/Ctrl - Month 36,2024-04-30
+Case,039-02-2021,Case/Ctrl - Month 36,2024-05-01
+Case,039-02-0227,Case/Ctrl - Day 1,2024-05-06
+Case,039-02-0177,Case/Ctrl - Month 27,2024-05-09
+Case,039-02-0115,Case/Ctrl - Month 33,2024-05-09
+PUI,039-02-1102,PUI Month 6,2024-05-11
+Case,039-02-0227,Case/Ctrl - Day 7,2024-05-13
+Case,039-02-0191,Case/Ctrl - Month 24,2024-05-14
+Case,039-02-0122,Case/Ctrl - Month 33,2024-05-16
+Case,039-13-0248,Case/Ctrl - Month 27,2024-05-16
+Case,039-13-3011,Case/Ctrl - Month 36,2024-05-17
+Case,039-02-0227,Case/Ctrl - Day 14,2024-05-20
+PUI,039-18-1162,PUI Month 6,2024-05-21
+Case,039-02-0228,Case/Ctrl - Day 1,2024-05-24
+Case,039-02-0227,Case/Ctrl - Day 21,2024-05-27
+Case,039-02-2029,Case/Ctrl - Month 36,2024-05-29
+Case,039-02-0228,Case/Ctrl - Day 7,2024-05-31
+Case,039-02-0227,Case/Ctrl - Day 28,2024-06-03
+Case,039-02-0153,Case/Ctrl - Month 30,2024-06-03
+Case,039-02-0228,Case/Ctrl - Day 14,2024-06-07
+Case,039-02-0134,Case/Ctrl - Month 33,2024-06-12
+Case,039-02-0228,Case/Ctrl - Day 21,2024-06-14
+Case,039-13-0097,Case/Ctrl - Month 45,2024-06-14
+Case,039-09-3002,Case/Ctrl - Month 39,2024-06-18
+Case,039-13-0209,Case/Ctrl - Month 30,2024-06-20
+Case,039-02-0228,Case/Ctrl - Day 28,2024-06-21
+Case,039-02-0027,Case/Ctrl - Month 45,2024-07-02
+Case,039-02-2015,Case/Ctrl - Month 42,2024-07-11
+Case,039-02-0016,Case/Ctrl - Month 48,2024-07-16
+Case,039-13-0109,Case/Ctrl - Month 42,2024-07-17
+Case,039-13-0112,Case/Ctrl - Month 42,2024-07-18
+Case,039-02-0096,Case/Ctrl - Month 39,2024-07-19
+Case,039-02-0149,Case/Ctrl - Month 33,2024-07-22
+PUI,039-18-1084,PUI Month 15,2024-07-22
+Case,039-13-0117,Case/Ctrl - Month 42,2024-07-24
+PUI,039-18-1140,PUI Month 12,2024-07-25
+PUI,039-18-1257_1,PUI Day 1,2024-07-25
+Case,039-13-3004,Case/Ctrl - Month 39,2024-07-30
+Case,039-02-2021,Case/Ctrl - Month 39,2024-07-31
+PUI,039-18-1257_1,PUI Day 7,2024-08-01
+Case,039-02-0227,Case/Ctrl - Month 3,2024-08-05
+Case,039-02-0177,Case/Ctrl - Month 30,2024-08-08
+Case,039-02-0115,Case/Ctrl - Month 36,2024-08-08
+PUI,039-18-1257_1,PUI Day 14,2024-08-08
+PUI,039-02-1102,PUI Month 9,2024-08-09
+Case,039-02-0191,Case/Ctrl - Month 27,2024-08-13
+Case,039-02-0122,Case/Ctrl - Month 36,2024-08-15
+Case,039-13-0248,Case/Ctrl - Month 30,2024-08-15
+PUI,039-18-1257_1,PUI Day 21,2024-08-15
+Case,039-13-3011,Case/Ctrl - Month 39,2024-08-16
+PUI,039-18-1162,PUI Month 9,2024-08-19
+PUI,039-18-1257_1,PUI Day 28,2024-08-22
+Case,039-02-0228,Case/Ctrl - Month 3,2024-08-23
+Case,039-02-2029,Case/Ctrl - Month 39,2024-08-28
+Case,039-02-0153,Case/Ctrl - Month 33,2024-09-02
+Case,039-02-0134,Case/Ctrl - Month 36,2024-09-11
+Case,039-13-0097,Case/Ctrl - Month 48,2024-09-13
+Case,039-09-3002,Case/Ctrl - Month 42,2024-09-17
+Case,039-13-0209,Case/Ctrl - Month 33,2024-09-19
+Controls,039-11-2141,Controls Day 1	,2024-09-27
+Case,039-02-0027,Case/Ctrl - Month 48,2024-10-01
+Controls,039-11-2141,Controls Day 7,2024-10-04
+Case,039-02-2015,Case/Ctrl - Month 45,2024-10-10
+Controls,039-11-2141,Controls Day 14,2024-10-11
+Controls,039-11-2141,JJ Booster Day 14,2024-10-11
+Controls,039-11-2141,Pfizer Booster Day 14,2024-10-11
+Controls,039-11-2141,Pfizer Vaccination Day 14,2024-10-11
+Case,039-02-0016,Case/Ctrl - Month 51,2024-10-15
+Case,039-13-0109,Case/Ctrl - Month 45,2024-10-16
+Case,039-13-0112,Case/Ctrl - Month 45,2024-10-17
+PUI,039-18-1295,PUI Day 1,2024-10-17
+Case,039-02-0096,Case/Ctrl - Month 42,2024-10-18
+Controls,039-11-2141,Controls Day 21,2024-10-18
+Case,039-02-0149,Case/Ctrl - Month 36,2024-10-21
+PUI,039-18-1084,PUI Month 18,2024-10-21
+Case,039-13-0117,Case/Ctrl - Month 45,2024-10-23
+PUI,039-18-1140,PUI Month 15,2024-10-24
+PUI,039-18-1295,PUI Day 7,2024-10-24
+PUI,039-18-1257_1,PUI Month 3,2024-10-24
+Controls,039-11-2141,Controls Day 28,2024-10-25
+Controls,039-11-2141,JJ Vaccination Day 28,2024-10-25
+Case,039-13-3004,Case/Ctrl - Month 42,2024-10-29
+Case,039-02-2021,Case/Ctrl - Month 42,2024-10-30
+PUI,039-18-1295,PUI Day 14,2024-10-31
+Case,039-02-0227,Case/Ctrl - Day 180,2024-11-04
+Case,039-02-0177,Case/Ctrl - Month 33,2024-11-07
+Case,039-02-0115,Case/Ctrl - Month 39,2024-11-07
+PUI,039-18-1295,PUI Day 21,2024-11-07
+PUI,039-02-1102,PUI Month 12,2024-11-08
+PUI,039-13-1024,PUI Day 1,2024-11-08
+Case,039-02-0191,Case/Ctrl - Month 30,2024-11-12
+Case,039-02-0122,Case/Ctrl - Month 39,2024-11-14
+Case,039-13-0248,Case/Ctrl - Month 33,2024-11-14
+PUI,039-18-1295,PUI Day 28,2024-11-14
+Case,039-13-3011,Case/Ctrl - Month 42,2024-11-15
+PUI,039-13-1024,PUI Day 7,2024-11-15
+PUI,039-18-1162,PUI Month 12,2024-11-18
+Case,039-02-0228,Case/Ctrl - Day 180,2024-11-22
+PUI,039-13-1024,PUI Day 14,2024-11-22
+Case,039-02-2029,Case/Ctrl - Month 42,2024-11-27
+PUI,039-13-1024,PUI Day 21,2024-11-29
+Case,039-02-0153,Case/Ctrl - Month 36,2024-12-02
+PUI,039-13-1024,PUI Day 28,2024-12-06
+Case,039-02-0134,Case/Ctrl - Month 39,2024-12-11
+Case,039-13-0097,Case/Ctrl - Month 51,2024-12-13
+Case,039-09-3002,Case/Ctrl - Month 45,2024-12-17
+Case,039-13-0209,Case/Ctrl - Month 36,2024-12-19
+Controls,039-11-2141,Controls Month 3	,2024-12-27
+Case,039-02-0027,Case/Ctrl - Month 51,2024-12-31
+Case,039-02-2015,Case/Ctrl - Month 48,2025-01-09
+Case,039-02-0016,Case/Ctrl - Month 54,2025-01-14
+Case,039-13-0109,Case/Ctrl - Month 48,2025-01-15
+Case,039-13-0112,Case/Ctrl - Month 48,2025-01-16
+PUI,039-18-1295,PUI Month 3,2025-01-16
+Case,039-02-0096,Case/Ctrl - Month 45,2025-01-17
+Case,039-02-0149,Case/Ctrl - Month 39,2025-01-20
+PUI,039-18-1084,PUI Month 21,2025-01-20
+Case,039-13-0117,Case/Ctrl - Month 48,2025-01-22
+PUI,039-18-1140,PUI Month 18,2025-01-23
+PUI,039-18-1257_1,PUI Month 6,2025-01-24
+Case,039-13-3004,Case/Ctrl - Month 45,2025-01-28
+Case,039-02-2021,Case/Ctrl - Month 45,2025-01-29
+Case,039-02-0227,Case/Ctrl - Month 9,2025-02-03
+Case,039-02-0177,Case/Ctrl - Month 36,2025-02-06
+Case,039-02-0115,Case/Ctrl - Month 42,2025-02-06
+PUI,039-02-1102,PUI Month 15,2025-02-07
+PUI,039-13-1024,PUI Month 3,2025-02-07
+Case,039-02-0191,Case/Ctrl - Month 33,2025-02-11
+Case,039-02-0122,Case/Ctrl - Month 42,2025-02-13
+Case,039-13-0248,Case/Ctrl - Month 36,2025-02-13
+Case,039-13-3011,Case/Ctrl - Month 45,2025-02-14
+PUI,039-18-1162,PUI Month 15,2025-02-17
+Case,039-02-0228,Case/Ctrl - Month 9,2025-02-21
+Case,039-02-2029,Case/Ctrl - Month 45,2025-02-26
+Case,039-02-0153,Case/Ctrl - Month 39,2025-03-03
+Case,039-02-0134,Case/Ctrl - Month 42,2025-03-12
+Case,039-13-0097,Case/Ctrl - Month 54,2025-03-14
+Case,039-09-3002,Case/Ctrl - Month 48,2025-03-18
+Case,039-13-0209,Case/Ctrl - Month 39,2025-03-20
+Controls,039-11-2141,Controls Month 6,2025-03-29
+Case,039-02-0027,Case/Ctrl - Month 54,2025-04-01
+Case,039-02-2015,Case/Ctrl - Month 51,2025-04-10
+Case,039-02-0016,Case/Ctrl - Month 57,2025-04-15
+Case,039-13-0109,Case/Ctrl - Month 51,2025-04-16
+Case,039-13-0112,Case/Ctrl - Month 51,2025-04-17
+Case,039-02-0096,Case/Ctrl - Month 48,2025-04-18
+PUI,039-18-1295,PUI Month 6,2025-04-18
+Case,039-02-0149,Case/Ctrl - Month 42,2025-04-21
+PUI,039-18-1084,PUI Month 24,2025-04-21
+Case,039-13-0117,Case/Ctrl - Month 51,2025-04-23
+PUI,039-18-1140,PUI Month 21,2025-04-24
+PUI,039-18-1257_1,PUI Month 9,2025-04-24
+Case,039-13-3004,Case/Ctrl - Month 48,2025-04-29
+Case,039-02-2021,Case/Ctrl - Month 48,2025-04-30
+Case,039-02-0227,Case/Ctrl - Month 12,2025-05-05
+Case,039-02-0177,Case/Ctrl - Month 39,2025-05-08
+Case,039-02-0115,Case/Ctrl - Month 45,2025-05-08
+PUI,039-02-1102,PUI Month 18,2025-05-09
+PUI,039-13-1024,PUI Month 6,2025-05-10
+Case,039-02-0191,Case/Ctrl - Month 36,2025-05-13
+Case,039-02-0122,Case/Ctrl - Month 45,2025-05-15
+Case,039-13-0248,Case/Ctrl - Month 39,2025-05-15
+Case,039-13-3011,Case/Ctrl - Month 48,2025-05-16
+PUI,039-18-1162,PUI Month 18,2025-05-19
+Case,039-02-0228,Case/Ctrl - Month 12,2025-05-23
+Case,039-02-2029,Case/Ctrl - Month 48,2025-05-28
+Case,039-02-0153,Case/Ctrl - Month 42,2025-06-02
+Case,039-02-0134,Case/Ctrl - Month 45,2025-06-11
+Vaccinated,039-02-3135,Vaccinated Day 1,2025-06-12
+Case,039-13-0097,Case/Ctrl - Month 57,2025-06-13
+Case,039-09-3002,Case/Ctrl - Month 51,2025-06-17
+Case,039-13-0209,Case/Ctrl - Month 42,2025-06-19
+PUI,039-02-1170,PUI Day 1,2025-06-19
+Controls,039-18-2165,Controls Day 1	,2025-06-20
+Controls,039-18-2163,Controls Day 1	,2025-06-20
+Controls,039-18-2164,Controls Day 1	,2025-06-20
+Controls,039-18-2162,Controls Day 1	,2025-06-20
+Vaccinated,039-02-3135, Pfizer Booster Day 14,2025-06-26
+Vaccinated,039-02-3135,JJ Booster Day 14,2025-06-26
+Vaccinated,039-02-3135,Pfizer Vaccination Day 14,2025-06-26
+PUI,039-02-1170,PUI Day 7,2025-06-26
+Controls,039-11-2141,Controls Month 9,2025-06-27
+Controls,039-18-2165,Controls Day 7,2025-06-27
+Controls,039-18-2163,Controls Day 7,2025-06-27
+Controls,039-18-2164,Controls Day 7,2025-06-27
+Controls,039-18-2162,Controls Day 7,2025-06-27
+Case,039-02-0027,Case/Ctrl - Month 57,2025-07-01
+PUI,039-02-1170,PUI Day 14,2025-07-03
+Controls,039-18-2165,Controls Day 14,2025-07-04
+Controls,039-18-2165,JJ Booster Day 14,2025-07-04
+Controls,039-18-2165,Pfizer Booster Day 14,2025-07-04
+Controls,039-18-2165,Pfizer Vaccination Day 14,2025-07-04
+Controls,039-18-2163,Controls Day 14,2025-07-04
+Controls,039-18-2163,JJ Booster Day 14,2025-07-04
+Controls,039-18-2163,Pfizer Booster Day 14,2025-07-04
+Controls,039-18-2163,Pfizer Vaccination Day 14,2025-07-04
+Controls,039-18-2164,Controls Day 14,2025-07-04
+Controls,039-18-2164,JJ Booster Day 14,2025-07-04
+Controls,039-18-2164,Pfizer Booster Day 14,2025-07-04
+Controls,039-18-2164,Pfizer Vaccination Day 14,2025-07-04
+Controls,039-18-2162,Controls Day 14,2025-07-04
+Controls,039-18-2162,JJ Booster Day 14,2025-07-04
+Controls,039-18-2162,Pfizer Booster Day 14,2025-07-04
+Controls,039-18-2162,Pfizer Vaccination Day 14,2025-07-04
+Case,039-02-2015,Case/Ctrl - Month 54,2025-07-10
+Vaccinated,039-02-3135,JJ Vaccination Day 28,2025-07-10
+Vaccinated,039-02-3135,Vaccinated Month 1,2025-07-10
+PUI,039-02-1170,PUI Day 21,2025-07-10
+Controls,039-18-2165,Controls Day 21,2025-07-11
+Controls,039-18-2163,Controls Day 21,2025-07-11
+Controls,039-18-2164,Controls Day 21,2025-07-11
+Controls,039-18-2162,Controls Day 21,2025-07-11
+Case,039-02-0016,Case/Ctrl - Month 60,2025-07-15
+Case,039-13-0109,Case/Ctrl - Month 54,2025-07-16
+Case,039-13-0112,Case/Ctrl - Month 54,2025-07-17
+PUI,039-02-1170,PUI Day 28,2025-07-17
+PUI,039-18-1295,PUI Month 9,2025-07-17
+Case,039-02-0096,Case/Ctrl - Month 51,2025-07-18
+Controls,039-18-2165,Controls Day 28,2025-07-18
+Controls,039-18-2165,JJ Vaccination Day 28,2025-07-18
+Controls,039-18-2163,Controls Day 28,2025-07-18
+Controls,039-18-2163,JJ Vaccination Day 28,2025-07-18
+Controls,039-18-2164,Controls Day 28,2025-07-18
+Controls,039-18-2164,JJ Vaccination Day 28,2025-07-18
+Controls,039-18-2162,Controls Day 28,2025-07-18
+Controls,039-18-2162,JJ Vaccination Day 28,2025-07-18
+Case,039-02-0149,Case/Ctrl - Month 45,2025-07-21
+PUI,039-18-1084,PUI Month 27,2025-07-21
+Case,039-13-0117,Case/Ctrl - Month 54,2025-07-23
+PUI,039-18-1140,PUI Month 24,2025-07-24
+PUI,039-18-1257_1,PUI Month 12,2025-07-24
+Case,039-13-3004,Case/Ctrl - Month 51,2025-07-29
+Case,039-02-2021,Case/Ctrl - Month 51,2025-07-30
+Case,039-02-0227,Case/Ctrl - Month 15,2025-08-04
+Case,039-02-0177,Case/Ctrl - Month 42,2025-08-07
+Case,039-02-0115,Case/Ctrl - Month 48,2025-08-07
+PUI,039-02-1102,PUI Month 21,2025-08-08
+PUI,039-13-1024,PUI Month 9,2025-08-08
+Case,039-02-0191,Case/Ctrl - Month 39,2025-08-12
+Case,039-02-0122,Case/Ctrl - Month 48,2025-08-14
+Case,039-13-0248,Case/Ctrl - Month 42,2025-08-14
+Case,039-13-3011,Case/Ctrl - Month 51,2025-08-15
+PUI,039-18-1162,PUI Month 21,2025-08-18
+Case,039-02-0228,Case/Ctrl - Month 15,2025-08-22
+Case,039-02-2029,Case/Ctrl - Month 51,2025-08-27
+Case,039-02-0153,Case/Ctrl - Month 45,2025-09-01
+Case,039-02-0134,Case/Ctrl - Month 48,2025-09-10
+Vaccinated,039-02-3135,Vaccinated Month 3,2025-09-11
+Case,039-13-0097,Case/Ctrl - Month 60,2025-09-12
+Case,039-09-3002,Case/Ctrl - Month 54,2025-09-16
+Case,039-13-0209,Case/Ctrl - Month 45,2025-09-18
+PUI,039-02-1170,PUI Month 3,2025-09-18
+Controls,039-18-2165,Controls Month 3	,2025-09-19
+Controls,039-18-2163,Controls Month 3	,2025-09-19
+Controls,039-18-2164,Controls Month 3	,2025-09-19
+Controls,039-18-2162,Controls Month 3	,2025-09-19
+Controls,039-11-2141,Controls Month 12,2025-09-26
+Case,039-02-0027,Case/Ctrl - Month 60,2025-09-30
+Case,039-02-2015,Case/Ctrl - Month 57,2025-10-09
+Case,039-13-0109,Case/Ctrl - Month 57,2025-10-15
+Case,039-13-0112,Case/Ctrl - Month 57,2025-10-16
+PUI,039-18-1295,PUI Month 12,2025-10-16
+Case,039-02-0096,Case/Ctrl - Month 54,2025-10-17
+Case,039-02-0149,Case/Ctrl - Month 48,2025-10-20
+PUI,039-18-1084,PUI Month 30,2025-10-20
+Case,039-13-0117,Case/Ctrl - Month 57,2025-10-22
+PUI,039-18-1140,PUI Month 27,2025-10-23
+PUI,039-18-1257_1,PUI Month 15,2025-10-23
+Case,039-13-3004,Case/Ctrl - Month 54,2025-10-28
+Case,039-02-2021,Case/Ctrl - Month 54,2025-10-29
+Case,039-02-0227,Case/Ctrl - Month 18,2025-11-03
+Case,039-02-0177,Case/Ctrl - Month 45,2025-11-06
+Case,039-02-0115,Case/Ctrl - Month 51,2025-11-06
+PUI,039-02-1102,PUI Month 24,2025-11-07
+PUI,039-13-1024,PUI Month 12,2025-11-07
+Case,039-02-0191,Case/Ctrl - Month 42,2025-11-11
+Case,039-02-0122,Case/Ctrl - Month 51,2025-11-13
+Case,039-13-0248,Case/Ctrl - Month 45,2025-11-13
+Case,039-13-3011,Case/Ctrl - Month 54,2025-11-14
+PUI,039-18-1162,PUI Month 24,2025-11-17
+Case,039-02-0228,Case/Ctrl - Month 18,2025-11-21
+Case,039-02-2029,Case/Ctrl - Month 54,2025-11-26
+Case,039-02-0153,Case/Ctrl - Month 48,2025-12-01
+Case,039-02-0134,Case/Ctrl - Month 51,2025-12-10
+Vaccinated,039-02-3135,Vaccinated Month 6,2025-12-11
+Case,039-09-3002,Case/Ctrl - Month 57,2025-12-16
+Case,039-13-0209,Case/Ctrl - Month 48,2025-12-18
+PUI,039-02-1170,PUI Month 6,2025-12-19
+Controls,039-18-2165,Controls Month 6,2025-12-20
+Controls,039-18-2163,Controls Month 6,2025-12-20
+Controls,039-18-2164,Controls Month 6,2025-12-20
+Controls,039-18-2162,Controls Month 6,2025-12-20
+Case,039-02-2015,Case/Ctrl - Month 60,2026-01-08
+Case,039-13-0109,Case/Ctrl - Month 60,2026-01-14
+Case,039-13-0112,Case/Ctrl - Month 60,2026-01-15
+PUI,039-18-1295,PUI Month 15,2026-01-15
+Case,039-02-0096,Case/Ctrl - Month 57,2026-01-16
+Case,039-02-0149,Case/Ctrl - Month 51,2026-01-19
+PUI,039-18-1084,PUI Month 33,2026-01-19
+Case,039-02-0016,Unscheduled Visit,2026-01-20
+Case,039-13-0117,Case/Ctrl - Month 60,2026-01-21
+PUI,039-18-1140,PUI Month 30,2026-01-22
+PUI,039-18-1257_1,PUI Month 18,2026-01-22
+Case,039-13-3004,Case/Ctrl - Month 57,2026-01-27
+Case,039-02-2021,Case/Ctrl - Month 57,2026-01-28
+Case,039-02-0227,Case/Ctrl - Month 21,2026-02-02
+Case,039-02-0177,Case/Ctrl - Month 48,2026-02-05
+Case,039-02-0115,Case/Ctrl - Month 54,2026-02-05
+PUI,039-02-1102,PUI Month 27,2026-02-06
+PUI,039-13-1024,PUI Month 15,2026-02-06
+Case,039-02-0191,Case/Ctrl - Month 45,2026-02-10
+Case,039-02-0122,Case/Ctrl - Month 54,2026-02-12
+Case,039-13-0248,Case/Ctrl - Month 48,2026-02-12
+PAEDS,039-09-8170,Paeds - Day 1,2026-02-12
+Case,039-13-3011,Case/Ctrl - Month 57,2026-02-13
+PUI,039-18-1162,PUI Month 27,2026-02-16
+PAEDS,039-09-8170,Paeds - Day  7,2026-02-19
+Case,039-02-0228,Case/Ctrl - Month 21,2026-02-20
+Case,039-02-2029,Case/Ctrl - Month 57,2026-02-25
+PAEDS,039-09-8171,Paeds - Day 1,2026-02-25
+PAEDS,039-09-8170,Paeds - Day  14,2026-02-26
+Case,039-02-0153,Case/Ctrl - Month 51,2026-03-02
+PAEDS,039-09-8171,Paeds - Day  7,2026-03-04
+PAEDS,039-09-8172,Paeds - Day 1,2026-03-05
+Case,039-02-0134,Case/Ctrl - Month 54,2026-03-11
+PAEDS,039-09-8171,Paeds - Day  14,2026-03-11
+PAEDS,039-09-8172,Paeds - Day  7,2026-03-12
+Case,039-09-3002,Case/Ctrl - Month 60,2026-03-17
+Case,039-13-0209,Case/Ctrl - Month 51,2026-03-19
+PUI,039-02-1170,PUI Month 9,2026-03-19
+PAEDS,039-09-8172,Paeds - Day  14,2026-03-19
+Case,039-13-0097,Unscheduled Visit,2026-03-20
+Controls,039-18-2165,Controls Month 9,2026-03-20
+Controls,039-18-2163,Controls Month 9,2026-03-20
+Controls,039-18-2164,Controls Month 9,2026-03-20
+Controls,039-18-2162,Controls Month 9,2026-03-20
+Case,039-02-0027,Unscheduled Visit,2026-04-07
+PUI,039-18-1295,PUI Month 18,2026-04-16
+Case,039-02-0096,Case/Ctrl - Month 60,2026-04-17
+Case,039-02-0149,Case/Ctrl - Month 54,2026-04-20
+PUI,039-18-1084,PUI Month 36,2026-04-20
+PUI,039-18-1140,PUI Month 33,2026-04-23
+PUI,039-18-1257_1,PUI Month 21,2026-04-23
+Case,039-13-3004,Case/Ctrl - Month 60,2026-04-28
+Case,039-02-2021,Case/Ctrl - Month 60,2026-04-29
+Case,039-02-0227,Case/Ctrl - Month 24,2026-05-04
+Case,039-02-0177,Case/Ctrl - Month 51,2026-05-07
+Case,039-02-0115,Case/Ctrl - Month 57,2026-05-07
+PUI,039-02-1102,PUI Month 30,2026-05-08
+PUI,039-13-1024,PUI Month 18,2026-05-08
+Case,039-02-0191,Case/Ctrl - Month 48,2026-05-12
+Case,039-02-0122,Case/Ctrl - Month 57,2026-05-14
+Case,039-13-0248,Case/Ctrl - Month 51,2026-05-14
+Case,039-13-3011,Case/Ctrl - Month 60,2026-05-15
+PUI,039-18-1162,PUI Month 30,2026-05-18
+Case,039-02-0228,Case/Ctrl - Month 24,2026-05-22
+Case,039-02-2029,Case/Ctrl - Month 60,2026-05-27
+Case,039-02-0153,Case/Ctrl - Month 54,2026-06-01
+Case,039-02-0134,Case/Ctrl - Month 57,2026-06-10
+Vaccinated,039-02-3135,Unscheduled: Post-Vaccine,2026-06-11
+Case,039-13-0209,Case/Ctrl - Month 54,2026-06-18
+PUI,039-02-1170,PUI Month 12,2026-06-18
+Controls,039-18-2165,Controls Month 12,2026-06-19
+Controls,039-18-2163,Controls Month 12,2026-06-19
+Controls,039-18-2164,Controls Month 12,2026-06-19
+Controls,039-18-2162,Controls Month 12,2026-06-19
+Controls,039-02-2168,Controls Day 1	,2026-07-02
+Controls,039-02-2166,Controls Day 1	,2026-07-02
+Controls,039-02-2169,Controls Day 1	,2026-07-02
+Controls,039-02-2167,Controls Day 1	,2026-07-02
+Controls,039-02-2165,Controls Day 1	,2026-07-03
+Controls,039-02-2170,Controls Day 1	,2026-07-03
+Controls,039-02-2171,Controls Day 1	,2026-07-03
+Controls,039-02-2172,Controls Day 1	,2026-07-03
+Controls,039-02-2174,Controls Day 1	,2026-07-06
+Controls,039-02-2173,Controls Day 1	,2026-07-06
+Controls,039-02-2175,Controls Day 1	,2026-07-07
+Controls,039-02-2176,Controls Day 1	,2026-07-08
+PUI,039-02-1171,PUI Day 1,2026-07-08
+Controls,039-02-2168,Controls Day 7,2026-07-09
+Controls,039-02-2166,Controls Day 7,2026-07-09
+Controls,039-02-2177,Controls Day 1	,2026-07-09
+Controls,039-02-2169,Controls Day 7,2026-07-09
+Controls,039-02-2167,Controls Day 7,2026-07-09
+Controls,039-02-2179,Controls Day 1	,2026-07-10
+Controls,039-02-2165,Controls Day 7,2026-07-10
+Controls,039-02-2178,Controls Day 1	,2026-07-10
+Controls,039-02-2170,Controls Day 7,2026-07-10
+Controls,039-02-2171,Controls Day 7,2026-07-10
+Controls,039-02-2172,Controls Day 7,2026-07-10
+Controls,039-02-2180,Controls Day 1	,2026-07-13
+Controls,039-02-2174,Controls Day 7,2026-07-13
+Controls,039-02-2182,Controls Day 1	,2026-07-13
+Controls,039-02-2173,Controls Day 7,2026-07-13
+Controls,039-02-2181,Controls Day 1	,2026-07-13
+Controls,039-02-2183,Controls Day 1	,2026-07-14
+Controls,039-02-2175,Controls Day 7,2026-07-14
+Controls,039-02-2184,Controls Day 1	,2026-07-14
+Controls,039-02-2186,Controls Day 1	,2026-07-14
+Controls,039-02-2176,Controls Day 7,2026-07-15
+Controls,039-02-2188,Controls Day 1	,2026-07-15
+Controls,039-02-2187,Controls Day 1	,2026-07-15
+PUI,039-02-1172,PUI Day 1,2026-07-15
+PUI,039-02-1171,PUI Day 7,2026-07-15
+Case,039-02-2015,Unscheduled Visit,2026-07-16
+Controls,039-02-2190,Controls Day 1	,2026-07-16
+Controls,039-02-2191,Controls Day 1	,2026-07-16
+Controls,039-02-2168,Controls Day 14,2026-07-16
+Controls,039-02-2168,JJ Booster Day 14,2026-07-16
+Controls,039-02-2168,Pfizer Booster Day 14,2026-07-16
+Controls,039-02-2168,Pfizer Vaccination Day 14,2026-07-16
+Controls,039-02-2166,Controls Day 14,2026-07-16
+Controls,039-02-2166,JJ Booster Day 14,2026-07-16
+Controls,039-02-2166,Pfizer Booster Day 14,2026-07-16
+Controls,039-02-2166,Pfizer Vaccination Day 14,2026-07-16
+Controls,039-02-2177,Controls Day 7,2026-07-16
+Controls,039-02-2189,Controls Day 1	,2026-07-16
+Controls,039-02-2169,Controls Day 14,2026-07-16
+Controls,039-02-2169,JJ Booster Day 14,2026-07-16
+Controls,039-02-2169,Pfizer Booster Day 14,2026-07-16
+Controls,039-02-2169,Pfizer Vaccination Day 14,2026-07-16
+Controls,039-02-2192,Controls Day 1	,2026-07-16
+Controls,039-02-2167,Controls Day 14,2026-07-16
+Controls,039-02-2167,JJ Booster Day 14,2026-07-16
+Controls,039-02-2167,Pfizer Booster Day 14,2026-07-16
+Controls,039-02-2167,Pfizer Vaccination Day 14,2026-07-16
+PUI,039-18-1295,PUI Month 21,2026-07-16
+Controls,039-02-2179,Controls Day 7,2026-07-17
+Controls,039-02-2165,Controls Day 14,2026-07-17
+Controls,039-02-2165,JJ Booster Day 14,2026-07-17
+Controls,039-02-2165,Pfizer Booster Day 14,2026-07-17
+Controls,039-02-2165,Pfizer Vaccination Day 14,2026-07-17
+Controls,039-02-2178,Controls Day 7,2026-07-17
+Controls,039-02-2170,Controls Day 14,2026-07-17
+Controls,039-02-2170,JJ Booster Day 14,2026-07-17
+Controls,039-02-2170,Pfizer Booster Day 14,2026-07-17
+Controls,039-02-2170,Pfizer Vaccination Day 14,2026-07-17
+Controls,039-02-2171,Controls Day 14,2026-07-17
+Controls,039-02-2171,JJ Booster Day 14,2026-07-17
+Controls,039-02-2171,Pfizer Booster Day 14,2026-07-17
+Controls,039-02-2171,Pfizer Vaccination Day 14,2026-07-17
+Controls,039-02-2172,Controls Day 14,2026-07-17
+Controls,039-02-2172,JJ Booster Day 14,2026-07-17
+Controls,039-02-2172,Pfizer Booster Day 14,2026-07-17
+Controls,039-02-2172,Pfizer Vaccination Day 14,2026-07-17
+PUI,039-02-1173,PUI Day 1,2026-07-17
+PUI,039-02-1174,PUI Day 1,2026-07-17
+Case,039-02-0149,Case/Ctrl - Month 57,2026-07-20
+Controls,039-02-2180,Controls Day 7,2026-07-20
+Controls,039-02-2194,Controls Day 1	,2026-07-20
+Controls,039-02-2193,Controls Day 1	,2026-07-20
+Controls,039-02-2174,Controls Day 14,2026-07-20
+Controls,039-02-2174,JJ Booster Day 14,2026-07-20
+Controls,039-02-2174,Pfizer Booster Day 14,2026-07-20
+Controls,039-02-2174,Pfizer Vaccination Day 14,2026-07-20
+Controls,039-02-2182,Controls Day 7,2026-07-20
+Controls,039-02-2173,Controls Day 14,2026-07-20
+Controls,039-02-2173,JJ Booster Day 14,2026-07-20
+Controls,039-02-2173,Pfizer Booster Day 14,2026-07-20
+Controls,039-02-2173,Pfizer Vaccination Day 14,2026-07-20
+Controls,039-02-2181,Controls Day 7,2026-07-20
+PUI,039-18-1084,PUI Month 39,2026-07-20
+Controls,039-02-2183,Controls Day 7,2026-07-21
+Controls,039-02-2175,Controls Day 14,2026-07-21
+Controls,039-02-2175,JJ Booster Day 14,2026-07-21
+Controls,039-02-2175,Pfizer Booster Day 14,2026-07-21
+Controls,039-02-2175,Pfizer Vaccination Day 14,2026-07-21
+Controls,039-02-2184,Controls Day 7,2026-07-21
+Controls,039-02-2186,Controls Day 7,2026-07-21
+Case,039-13-0109,Unscheduled Visit,2026-07-22
+Controls,039-02-2176,Controls Day 14,2026-07-22
+Controls,039-02-2176,JJ Booster Day 14,2026-07-22
+Controls,039-02-2176,Pfizer Booster Day 14,2026-07-22
+Controls,039-02-2176,Pfizer Vaccination Day 14,2026-07-22
+Controls,039-02-2188,Controls Day 7,2026-07-22
+Controls,039-02-2187,Controls Day 7,2026-07-22
+PUI,039-02-1172,PUI Day 7,2026-07-22
+PUI,039-02-1171,PUI Day 14,2026-07-22
+Case,039-13-0112,Unscheduled Visit,2026-07-23
+Controls,039-02-2190,Controls Day 7,2026-07-23
+Controls,039-02-2191,Controls Day 7,2026-07-23
+Controls,039-02-2168,Controls Day 21,2026-07-23
+Controls,039-02-2166,Controls Day 21,2026-07-23
+Controls,039-02-2177,Controls Day 14,2026-07-23
+Controls,039-02-2177,JJ Booster Day 14,2026-07-23
+Controls,039-02-2177,Pfizer Booster Day 14,2026-07-23
+Controls,039-02-2177,Pfizer Vaccination Day 14,2026-07-23
+Controls,039-02-2189,Controls Day 7,2026-07-23
+Controls,039-02-2169,Controls Day 21,2026-07-23
+Controls,039-02-2192,Controls Day 7,2026-07-23
+Controls,039-02-2167,Controls Day 21,2026-07-23
+PUI,039-18-1140,PUI Month 36,2026-07-23
+PUI,039-18-1257_1,PUI Month 24,2026-07-23
+Controls,039-02-2179,Controls Day 14,2026-07-24
+Controls,039-02-2179,JJ Booster Day 14,2026-07-24
+Controls,039-02-2179,Pfizer Booster Day 14,2026-07-24
+Controls,039-02-2179,Pfizer Vaccination Day 14,2026-07-24
+Controls,039-02-2165,Controls Day 21,2026-07-24
+Controls,039-02-2178,Controls Day 14,2026-07-24
+Controls,039-02-2178,JJ Booster Day 14,2026-07-24
+Controls,039-02-2178,Pfizer Booster Day 14,2026-07-24
+Controls,039-02-2178,Pfizer Vaccination Day 14,2026-07-24
+Controls,039-02-2170,Controls Day 21,2026-07-24
+Controls,039-02-2171,Controls Day 21,2026-07-24
+Controls,039-02-2172,Controls Day 21,2026-07-24
+PUI,039-02-1173,PUI Day 7,2026-07-24
+PUI,039-02-1174,PUI Day 7,2026-07-24
+Controls,039-02-2180,Controls Day 14,2026-07-27
+Controls,039-02-2180,JJ Booster Day 14,2026-07-27
+Controls,039-02-2180,Pfizer Booster Day 14,2026-07-27
+Controls,039-02-2180,Pfizer Vaccination Day 14,2026-07-27
+Controls,039-02-2194,Controls Day 7,2026-07-27
+Controls,039-02-2193,Controls Day 7,2026-07-27
+Controls,039-02-2174,Controls Day 21,2026-07-27
+Controls,039-02-2182,Controls Day 14,2026-07-27
+Controls,039-02-2182,JJ Booster Day 14,2026-07-27
+Controls,039-02-2182,Pfizer Booster Day 14,2026-07-27
+Controls,039-02-2182,Pfizer Vaccination Day 14,2026-07-27
+Controls,039-02-2173,Controls Day 21,2026-07-27
+Controls,039-02-2181,Controls Day 14,2026-07-27
+Controls,039-02-2181,JJ Booster Day 14,2026-07-27
+Controls,039-02-2181,Pfizer Booster Day 14,2026-07-27
+Controls,039-02-2181,Pfizer Vaccination Day 14,2026-07-27
+Controls,039-02-2195,Controls Day 1	,2026-07-28
+Controls,039-02-2183,Controls Day 14,2026-07-28
+Controls,039-02-2183,JJ Booster Day 14,2026-07-28
+Controls,039-02-2183,Pfizer Booster Day 14,2026-07-28
+Controls,039-02-2183,Pfizer Vaccination Day 14,2026-07-28
+Controls,039-02-2196,Controls Day 1	,2026-07-28
+Controls,039-02-2175,Controls Day 21,2026-07-28
+Controls,039-02-2184,Controls Day 14,2026-07-28
+Controls,039-02-2184,JJ Booster Day 14,2026-07-28
+Controls,039-02-2184,Pfizer Booster Day 14,2026-07-28
+Controls,039-02-2184,Pfizer Vaccination Day 14,2026-07-28
+Controls,039-02-2186,Controls Day 14,2026-07-28
+Controls,039-02-2186,JJ Booster Day 14,2026-07-28
+Controls,039-02-2186,Pfizer Booster Day 14,2026-07-28
+Controls,039-02-2186,Pfizer Vaccination Day 14,2026-07-28
+Case,039-13-0117,Unscheduled Visit,2026-07-29
+Controls,039-02-2176,Controls Day 21,2026-07-29
+Controls,039-02-2188,Controls Day 14,2026-07-29
+Controls,039-02-2188,JJ Booster Day 14,2026-07-29
+Controls,039-02-2188,Pfizer Booster Day 14,2026-07-29
+Controls,039-02-2188,Pfizer Vaccination Day 14,2026-07-29
+Controls,039-02-2187,Controls Day 14,2026-07-29
+Controls,039-02-2187,JJ Booster Day 14,2026-07-29
+Controls,039-02-2187,Pfizer Booster Day 14,2026-07-29
+Controls,039-02-2187,Pfizer Vaccination Day 14,2026-07-29
+PUI,039-02-1172,PUI Day 14,2026-07-29
+PUI,039-02-1171,PUI Day 21,2026-07-29
+PUI,039-02-1175,PUI Day 1,2026-07-29
+Controls,039-02-2190,Controls Day 14,2026-07-30
+Controls,039-02-2190,JJ Booster Day 14,2026-07-30
+Controls,039-02-2190,Pfizer Booster Day 14,2026-07-30
+Controls,039-02-2190,Pfizer Vaccination Day 14,2026-07-30
+Controls,039-02-2191,Controls Day 14,2026-07-30
+Controls,039-02-2191,JJ Booster Day 14,2026-07-30
+Controls,039-02-2191,Pfizer Booster Day 14,2026-07-30
+Controls,039-02-2191,Pfizer Vaccination Day 14,2026-07-30
+Controls,039-02-2168,Controls Day 28,2026-07-30
+Controls,039-02-2168,JJ Vaccination Day 28,2026-07-30
+Controls,039-02-2166,Controls Day 28,2026-07-30
+Controls,039-02-2166,JJ Vaccination Day 28,2026-07-30
+Controls,039-02-2177,Controls Day 21,2026-07-30
+Controls,039-02-2189,Controls Day 14,2026-07-30
+Controls,039-02-2189,JJ Booster Day 14,2026-07-30
+Controls,039-02-2189,Pfizer Booster Day 14,2026-07-30
+Controls,039-02-2189,Pfizer Vaccination Day 14,2026-07-30
+Controls,039-02-2169,Controls Day 28,2026-07-30
+Controls,039-02-2169,JJ Vaccination Day 28,2026-07-30
+Controls,039-02-2192,Controls Day 14,2026-07-30
+Controls,039-02-2192,JJ Booster Day 14,2026-07-30
+Controls,039-02-2192,Pfizer Booster Day 14,2026-07-30
+Controls,039-02-2192,Pfizer Vaccination Day 14,2026-07-30
+Controls,039-02-2167,Controls Day 28,2026-07-30
+Controls,039-02-2167,JJ Vaccination Day 28,2026-07-30
+PUI,039-02-1176,PUI Day 1,2026-07-30
+Controls,039-02-2179,Controls Day 21,2026-07-31
+Controls,039-02-2165,Controls Day 28,2026-07-31
+Controls,039-02-2165,JJ Vaccination Day 28,2026-07-31
+Controls,039-02-2178,Controls Day 21,2026-07-31
+Controls,039-02-2170,Controls Day 28,2026-07-31
+Controls,039-02-2170,JJ Vaccination Day 28,2026-07-31
+Controls,039-02-2171,Controls Day 28,2026-07-31
+Controls,039-02-2171,JJ Vaccination Day 28,2026-07-31
+Controls,039-02-2172,Controls Day 28,2026-07-31
+Controls,039-02-2172,JJ Vaccination Day 28,2026-07-31
+Controls,039-02-2197,Controls Day 1	,2026-07-31
+PUI,039-02-1173,PUI Day 14,2026-07-31
+PUI,039-02-1174,PUI Day 14,2026-07-31
+Case,039-02-0227,Case/Ctrl - Month 27,2026-08-03
+Controls,039-02-2180,Controls Day 21,2026-08-03
+Controls,039-02-2194,Controls Day 14,2026-08-03
+Controls,039-02-2194,JJ Booster Day 14,2026-08-03
+Controls,039-02-2194,Pfizer Booster Day 14,2026-08-03
+Controls,039-02-2194,Pfizer Vaccination Day 14,2026-08-03
+Controls,039-02-2193,Controls Day 14,2026-08-03
+Controls,039-02-2193,JJ Booster Day 14,2026-08-03
+Controls,039-02-2193,Pfizer Booster Day 14,2026-08-03
+Controls,039-02-2193,Pfizer Vaccination Day 14,2026-08-03
+Controls,039-02-2174,Controls Day 28,2026-08-03
+Controls,039-02-2174,JJ Vaccination Day 28,2026-08-03
+Controls,039-02-2182,Controls Day 21,2026-08-03
+Controls,039-02-2173,Controls Day 28,2026-08-03
+Controls,039-02-2173,JJ Vaccination Day 28,2026-08-03
+Controls,039-02-2181,Controls Day 21,2026-08-03
+Controls,039-02-2195,Controls Day 7,2026-08-04
+Controls,039-02-2183,Controls Day 21,2026-08-04
+Controls,039-02-2196,Controls Day 7,2026-08-04
+Controls,039-02-2175,Controls Day 28,2026-08-04
+Controls,039-02-2175,JJ Vaccination Day 28,2026-08-04
+Controls,039-02-2184,Controls Day 21,2026-08-04
+Controls,039-02-2186,Controls Day 21,2026-08-04
+Controls,039-02-2176,Controls Day 28,2026-08-05
+Controls,039-02-2176,JJ Vaccination Day 28,2026-08-05
+Controls,039-02-2188,Controls Day 21,2026-08-05
+Controls,039-02-2187,Controls Day 21,2026-08-05
+PUI,039-02-1172,PUI Day 21,2026-08-05
+PUI,039-02-1171,PUI Day 28,2026-08-05
+PUI,039-02-1175,PUI Day 7,2026-08-05
+Case,039-02-0177,Case/Ctrl - Month 54,2026-08-06
+Case,039-02-0115,Case/Ctrl - Month 60,2026-08-06
+Controls,039-02-2190,Controls Day 21,2026-08-06
+Controls,039-02-2191,Controls Day 21,2026-08-06
+Controls,039-02-2177,Controls Day 28,2026-08-06
+Controls,039-02-2177,JJ Vaccination Day 28,2026-08-06
+Controls,039-02-2189,Controls Day 21,2026-08-06
+Controls,039-02-2192,Controls Day 21,2026-08-06
+PUI,039-02-1176,PUI Day 7,2026-08-06
+Controls,039-02-2179,Controls Day 28,2026-08-07
+Controls,039-02-2179,JJ Vaccination Day 28,2026-08-07
+Controls,039-02-2178,Controls Day 28,2026-08-07
+Controls,039-02-2178,JJ Vaccination Day 28,2026-08-07
+Controls,039-02-2197,Controls Day 7,2026-08-07
+PUI,039-02-1173,PUI Day 21,2026-08-07
+PUI,039-02-1102,PUI Month 33,2026-08-07
+PUI,039-13-1024,PUI Month 21,2026-08-07
+PUI,039-02-1174,PUI Day 21,2026-08-07
+Controls,039-02-2180,Controls Day 28,2026-08-10
+Controls,039-02-2180,JJ Vaccination Day 28,2026-08-10
+Controls,039-02-2194,Controls Day 21,2026-08-10
+Controls,039-02-2193,Controls Day 21,2026-08-10
+Controls,039-02-2182,Controls Day 28,2026-08-10
+Controls,039-02-2182,JJ Vaccination Day 28,2026-08-10
+Controls,039-02-2181,Controls Day 28,2026-08-10
+Controls,039-02-2181,JJ Vaccination Day 28,2026-08-10
+Case,039-02-0191,Case/Ctrl - Month 51,2026-08-11
+Controls,039-02-2195,Controls Day 14,2026-08-11
+Controls,039-02-2195,JJ Booster Day 14,2026-08-11
+Controls,039-02-2195,Pfizer Booster Day 14,2026-08-11
+Controls,039-02-2195,Pfizer Vaccination Day 14,2026-08-11
+Controls,039-02-2183,Controls Day 28,2026-08-11
+Controls,039-02-2183,JJ Vaccination Day 28,2026-08-11
+Controls,039-02-2196,Controls Day 14,2026-08-11
+Controls,039-02-2196,JJ Booster Day 14,2026-08-11
+Controls,039-02-2196,Pfizer Booster Day 14,2026-08-11
+Controls,039-02-2196,Pfizer Vaccination Day 14,2026-08-11
+Controls,039-02-2184,Controls Day 28,2026-08-11
+Controls,039-02-2184,JJ Vaccination Day 28,2026-08-11
+Controls,039-02-2186,Controls Day 28,2026-08-11
+Controls,039-02-2186,JJ Vaccination Day 28,2026-08-11
+Controls,039-02-2188,Controls Day 28,2026-08-12
+Controls,039-02-2188,JJ Vaccination Day 28,2026-08-12
+Controls,039-02-2187,Controls Day 28,2026-08-12
+Controls,039-02-2187,JJ Vaccination Day 28,2026-08-12
+PUI,039-02-1172,PUI Day 28,2026-08-12
+PUI,039-02-1175,PUI Day 14,2026-08-12
+Case,039-02-0122,Case/Ctrl - Month 60,2026-08-13
+Case,039-13-0248,Case/Ctrl - Month 54,2026-08-13
+Controls,039-02-2190,Controls Day 28,2026-08-13
+Controls,039-02-2190,JJ Vaccination Day 28,2026-08-13
+Controls,039-02-2191,Controls Day 28,2026-08-13
+Controls,039-02-2191,JJ Vaccination Day 28,2026-08-13
+Controls,039-02-2189,Controls Day 28,2026-08-13
+Controls,039-02-2189,JJ Vaccination Day 28,2026-08-13
+Controls,039-02-2192,Controls Day 28,2026-08-13
+Controls,039-02-2192,JJ Vaccination Day 28,2026-08-13
+PUI,039-02-1176,PUI Day 14,2026-08-13
+Controls,039-02-2197,Controls Day 14,2026-08-14
+Controls,039-02-2197,JJ Booster Day 14,2026-08-14
+Controls,039-02-2197,Pfizer Booster Day 14,2026-08-14
+Controls,039-02-2197,Pfizer Vaccination Day 14,2026-08-14
+PUI,039-02-1173,PUI Day 28,2026-08-14
+PUI,039-02-1174,PUI Day 28,2026-08-14
+Controls,039-02-2194,Controls Day 28,2026-08-17
+Controls,039-02-2194,JJ Vaccination Day 28,2026-08-17
+Controls,039-02-2193,Controls Day 28,2026-08-17
+Controls,039-02-2193,JJ Vaccination Day 28,2026-08-17
+PUI,039-18-1162,PUI Month 33,2026-08-17
+Controls,039-02-2195,Controls Day 21,2026-08-18
+Controls,039-02-2196,Controls Day 21,2026-08-18
+PUI,039-02-1175,PUI Day 21,2026-08-19
+PUI,039-02-1176,PUI Day 21,2026-08-20
+Case,039-02-0228,Case/Ctrl - Month 27,2026-08-21
+Controls,039-02-2197,Controls Day 21,2026-08-21
+Controls,039-02-2195,Controls Day 28,2026-08-25
+Controls,039-02-2195,JJ Vaccination Day 28,2026-08-25
+Controls,039-02-2196,Controls Day 28,2026-08-25
+Controls,039-02-2196,JJ Vaccination Day 28,2026-08-25
+PUI,039-02-1175,PUI Day 28,2026-08-26
+PUI,039-02-1176,PUI Day 28,2026-08-27
+Controls,039-02-2197,Controls Day 28,2026-08-28
+Controls,039-02-2197,JJ Vaccination Day 28,2026-08-28
+Case,039-02-0153,Case/Ctrl - Month 57,2026-08-31
+Case,039-02-0134,Case/Ctrl - Month 60,2026-09-09
+Case,039-13-0209,Case/Ctrl - Month 57,2026-09-17
+PUI,039-02-1170,PUI Month 15,2026-09-17
+Case,039-09-3002,Unscheduled Visit,2026-09-22
+Controls,039-02-2168,Controls Month 3	,2026-10-01
+Controls,039-02-2166,Controls Month 3	,2026-10-01
+Controls,039-02-2169,Controls Month 3	,2026-10-01
+Controls,039-02-2167,Controls Month 3	,2026-10-01
+Controls,039-02-2165,Controls Month 3	,2026-10-02
+Controls,039-02-2170,Controls Month 3	,2026-10-02
+Controls,039-02-2171,Controls Month 3	,2026-10-02
+Controls,039-02-2172,Controls Month 3	,2026-10-02
+Controls,039-02-2174,Controls Month 3	,2026-10-05
+Controls,039-02-2173,Controls Month 3	,2026-10-05
+Controls,039-02-2175,Controls Month 3	,2026-10-06
+Controls,039-02-2176,Controls Month 3	,2026-10-07
+PUI,039-02-1171,PUI Month 3,2026-10-07
+Controls,039-02-2177,Controls Month 3	,2026-10-08
+Controls,039-02-2179,Controls Month 3	,2026-10-09
+Controls,039-02-2178,Controls Month 3	,2026-10-09
+Controls,039-02-2180,Controls Month 3	,2026-10-12
+Controls,039-02-2182,Controls Month 3	,2026-10-12
+Controls,039-02-2181,Controls Month 3	,2026-10-12
+Controls,039-02-2183,Controls Month 3	,2026-10-13
+Controls,039-02-2184,Controls Month 3	,2026-10-13
+Controls,039-02-2186,Controls Month 3	,2026-10-13
+Controls,039-02-2188,Controls Month 3	,2026-10-14
+Controls,039-02-2187,Controls Month 3	,2026-10-14
+PUI,039-02-1172,PUI Month 3,2026-10-14
+Controls,039-02-2190,Controls Month 3	,2026-10-15
+Controls,039-02-2191,Controls Month 3	,2026-10-15
+Controls,039-02-2189,Controls Month 3	,2026-10-15
+Controls,039-02-2192,Controls Month 3	,2026-10-15
+PUI,039-18-1295,PUI Month 24,2026-10-15
+PUI,039-02-1173,PUI Month 3,2026-10-16
+PUI,039-02-1174,PUI Month 3,2026-10-16
+Case,039-02-0149,Case/Ctrl - Month 60,2026-10-19
+Controls,039-02-2194,Controls Month 3	,2026-10-19
+Controls,039-02-2193,Controls Month 3	,2026-10-19
+PUI,039-18-1084,PUI Month 42,2026-10-19
+PUI,039-18-1140,PUI Month 39,2026-10-22
+PUI,039-18-1257_1,PUI Month 27,2026-10-22
+Case,039-02-0096,Unscheduled Visit,2026-10-23
+Controls,039-02-2195,Controls Month 3	,2026-10-27
+Controls,039-02-2196,Controls Month 3	,2026-10-27
+PUI,039-02-1175,PUI Month 3,2026-10-28
+PUI,039-02-1176,PUI Month 3,2026-10-29
+Controls,039-02-2197,Controls Month 3	,2026-10-30
+Case,039-02-0227,Case/Ctrl - Month 30,2026-11-02
+Case,039-13-3004,Unscheduled Visit,2026-11-03
+Case,039-02-2021,Unscheduled Visit,2026-11-04
+Case,039-02-0177,Case/Ctrl - Month 57,2026-11-05
+PUI,039-02-1102,PUI Month 36,2026-11-06
+PUI,039-13-1024,PUI Month 24,2026-11-06
+Case,039-02-0191,Case/Ctrl - Month 54,2026-11-10
+Case,039-13-0248,Case/Ctrl - Month 57,2026-11-12
+PUI,039-18-1162,PUI Month 36,2026-11-16
+Case,039-02-0228,Case/Ctrl - Month 30,2026-11-20
+Case,039-13-3011,Unscheduled Visit,2026-11-20
+Case,039-02-0153,Case/Ctrl - Month 60,2026-11-30
+Case,039-02-2029,Unscheduled Visit,2026-12-02
+Case,039-13-0209,Case/Ctrl - Month 60,2026-12-17
+PUI,039-02-1170,PUI Month 18,2026-12-17
+Controls,039-02-2168,Controls Month 6,2027-01-01
+Controls,039-02-2166,Controls Month 6,2027-01-01
+Controls,039-02-2169,Controls Month 6,2027-01-01
+Controls,039-02-2167,Controls Month 6,2027-01-01
+Controls,039-02-2165,Controls Month 6,2027-01-02
+Controls,039-02-2170,Controls Month 6,2027-01-02
+Controls,039-02-2171,Controls Month 6,2027-01-02
+Controls,039-02-2172,Controls Month 6,2027-01-02
+Controls,039-02-2174,Controls Month 6,2027-01-05
+Controls,039-02-2173,Controls Month 6,2027-01-05
+Controls,039-02-2175,Controls Month 6,2027-01-06
+Controls,039-02-2176,Controls Month 6,2027-01-07
+PUI,039-02-1171,PUI Month 6,2027-01-07
+Controls,039-02-2177,Controls Month 6,2027-01-08
+Controls,039-02-2179,Controls Month 6,2027-01-09
+Controls,039-02-2178,Controls Month 6,2027-01-09
+Controls,039-02-2180,Controls Month 6,2027-01-12
+Controls,039-02-2182,Controls Month 6,2027-01-12
+Controls,039-02-2181,Controls Month 6,2027-01-12
+Controls,039-02-2183,Controls Month 6,2027-01-13
+Controls,039-02-2184,Controls Month 6,2027-01-13
+Controls,039-02-2186,Controls Month 6,2027-01-13
+Controls,039-02-2188,Controls Month 6,2027-01-14
+Controls,039-02-2187,Controls Month 6,2027-01-14
+PUI,039-02-1172,PUI Month 6,2027-01-14
+PUI,039-18-1295,PUI Month 27,2027-01-14
+Controls,039-02-2190,Controls Month 6,2027-01-15
+Controls,039-02-2191,Controls Month 6,2027-01-15
+Controls,039-02-2189,Controls Month 6,2027-01-15
+Controls,039-02-2192,Controls Month 6,2027-01-15
+PUI,039-02-1173,PUI Month 6,2027-01-16
+PUI,039-02-1174,PUI Month 6,2027-01-16
+PUI,039-18-1084,PUI Month 45,2027-01-18
+Controls,039-02-2194,Controls Month 6,2027-01-19
+Controls,039-02-2193,Controls Month 6,2027-01-19
+PUI,039-18-1140,PUI Month 42,2027-01-21
+PUI,039-18-1257_1,PUI Month 30,2027-01-21
+Controls,039-02-2195,Controls Month 6,2027-01-27
+Controls,039-02-2196,Controls Month 6,2027-01-27
+PUI,039-02-1175,PUI Month 6,2027-01-28
+PUI,039-02-1176,PUI Month 6,2027-01-29
+Controls,039-02-2197,Controls Month 6,2027-01-30
+Case,039-02-0227,Case/Ctrl - Month 33,2027-02-01
+Case,039-02-0177,Case/Ctrl - Month 60,2027-02-04
+PUI,039-02-1102,PUI Month 39,2027-02-05
+PUI,039-13-1024,PUI Month 27,2027-02-05
+Case,039-02-0191,Case/Ctrl - Month 57,2027-02-09
+Case,039-02-0115,Unscheduled Visit,2027-02-11
+Case,039-13-0248,Case/Ctrl - Month 60,2027-02-11
+PUI,039-18-1162,PUI Month 39,2027-02-15
+Case,039-02-0122,Unscheduled Visit,2027-02-18
+Case,039-02-0228,Case/Ctrl - Month 33,2027-02-19
+Case,039-02-0134,Unscheduled Visit,2027-03-17
+PUI,039-02-1170,PUI Month 21,2027-03-18
+Controls,039-02-2168,Controls Month 9,2027-04-01
+Controls,039-02-2166,Controls Month 9,2027-04-01
+Controls,039-02-2169,Controls Month 9,2027-04-01
+Controls,039-02-2167,Controls Month 9,2027-04-01
+Controls,039-02-2165,Controls Month 9,2027-04-02
+Controls,039-02-2170,Controls Month 9,2027-04-02
+Controls,039-02-2171,Controls Month 9,2027-04-02
+Controls,039-02-2172,Controls Month 9,2027-04-02
+Controls,039-02-2174,Controls Month 9,2027-04-05
+Controls,039-02-2173,Controls Month 9,2027-04-05
+Controls,039-02-2175,Controls Month 9,2027-04-06
+Controls,039-02-2176,Controls Month 9,2027-04-07
+PUI,039-02-1171,PUI Month 9,2027-04-07
+Controls,039-02-2177,Controls Month 9,2027-04-08
+Controls,039-02-2179,Controls Month 9,2027-04-09
+Controls,039-02-2178,Controls Month 9,2027-04-09
+Controls,039-02-2180,Controls Month 9,2027-04-12
+Controls,039-02-2182,Controls Month 9,2027-04-12
+Controls,039-02-2181,Controls Month 9,2027-04-12
+Controls,039-02-2183,Controls Month 9,2027-04-13
+Controls,039-02-2184,Controls Month 9,2027-04-13
+Controls,039-02-2186,Controls Month 9,2027-04-13
+Controls,039-02-2188,Controls Month 9,2027-04-14
+Controls,039-02-2187,Controls Month 9,2027-04-14
+PUI,039-02-1172,PUI Month 9,2027-04-14
+Controls,039-02-2190,Controls Month 9,2027-04-15
+Controls,039-02-2191,Controls Month 9,2027-04-15
+Controls,039-02-2189,Controls Month 9,2027-04-15
+Controls,039-02-2192,Controls Month 9,2027-04-15
+PUI,039-18-1295,PUI Month 30,2027-04-15
+PUI,039-02-1173,PUI Month 9,2027-04-16
+PUI,039-02-1174,PUI Month 9,2027-04-16
+Controls,039-02-2194,Controls Month 9,2027-04-19
+Controls,039-02-2193,Controls Month 9,2027-04-19
+PUI,039-18-1084,PUI Month 48,2027-04-19
+PUI,039-18-1140,PUI Month 45,2027-04-22
+PUI,039-18-1257_1,PUI Month 33,2027-04-22
+Case,039-02-0149,Unscheduled Visit,2027-04-26
+Controls,039-02-2195,Controls Month 9,2027-04-27
+Controls,039-02-2196,Controls Month 9,2027-04-27
+PUI,039-02-1175,PUI Month 9,2027-04-28
+PUI,039-02-1176,PUI Month 9,2027-04-29
+Controls,039-02-2197,Controls Month 9,2027-04-30
+Case,039-02-0227,Case/Ctrl - Month 36,2027-05-03
+PUI,039-02-1102,PUI Month 42,2027-05-07
+PUI,039-13-1024,PUI Month 30,2027-05-07
+Case,039-02-0191,Case/Ctrl - Month 60,2027-05-11
+PUI,039-18-1162,PUI Month 42,2027-05-17
+Case,039-02-0228,Case/Ctrl - Month 36,2027-05-21
+Case,039-02-0153,Unscheduled Visit,2027-06-07
+PUI,039-02-1170,PUI Month 24,2027-06-17
+Case,039-13-0209,Unscheduled Visit,2027-06-24
+Controls,039-02-2168,Controls Month 12,2027-07-01
+Controls,039-02-2166,Controls Month 12,2027-07-01
+Controls,039-02-2169,Controls Month 12,2027-07-01
+Controls,039-02-2167,Controls Month 12,2027-07-01
+Controls,039-02-2165,Controls Month 12,2027-07-02
+Controls,039-02-2170,Controls Month 12,2027-07-02
+Controls,039-02-2171,Controls Month 12,2027-07-02
+Controls,039-02-2172,Controls Month 12,2027-07-02
+Controls,039-02-2174,Controls Month 12,2027-07-05
+Controls,039-02-2173,Controls Month 12,2027-07-05
+Controls,039-02-2175,Controls Month 12,2027-07-06
+Controls,039-02-2176,Controls Month 12,2027-07-07
+PUI,039-02-1171,PUI Month 12,2027-07-07
+Controls,039-02-2177,Controls Month 12,2027-07-08
+Controls,039-02-2179,Controls Month 12,2027-07-09
+Controls,039-02-2178,Controls Month 12,2027-07-09
+Controls,039-02-2180,Controls Month 12,2027-07-12
+Controls,039-02-2182,Controls Month 12,2027-07-12
+Controls,039-02-2181,Controls Month 12,2027-07-12
+Controls,039-02-2183,Controls Month 12,2027-07-13
+Controls,039-02-2184,Controls Month 12,2027-07-13
+Controls,039-02-2186,Controls Month 12,2027-07-13
+Controls,039-02-2188,Controls Month 12,2027-07-14
+Controls,039-02-2187,Controls Month 12,2027-07-14
+PUI,039-02-1172,PUI Month 12,2027-07-14
+Controls,039-02-2190,Controls Month 12,2027-07-15
+Controls,039-02-2191,Controls Month 12,2027-07-15
+Controls,039-02-2189,Controls Month 12,2027-07-15
+Controls,039-02-2192,Controls Month 12,2027-07-15
+PUI,039-18-1295,PUI Month 33,2027-07-15
+PUI,039-02-1173,PUI Month 12,2027-07-16
+PUI,039-02-1174,PUI Month 12,2027-07-16
+Controls,039-02-2194,Controls Month 12,2027-07-19
+Controls,039-02-2193,Controls Month 12,2027-07-19
+PUI,039-18-1084,PUI Month 51,2027-07-19
+PUI,039-18-1140,PUI Month 48,2027-07-22
+PUI,039-18-1257_1,PUI Month 36,2027-07-22
+Controls,039-02-2195,Controls Month 12,2027-07-27
+Controls,039-02-2196,Controls Month 12,2027-07-27
+PUI,039-02-1175,PUI Month 12,2027-07-28
+PUI,039-02-1176,PUI Month 12,2027-07-29
+Controls,039-02-2197,Controls Month 12,2027-07-30
+Case,039-02-0227,Case/Ctrl - Month 39,2027-08-02
+PUI,039-02-1102,PUI Month 45,2027-08-06
+PUI,039-13-1024,PUI Month 33,2027-08-06
+Case,039-02-0177,Unscheduled Visit,2027-08-12
+PUI,039-18-1162,PUI Month 45,2027-08-16
+Case,039-13-0248,Unscheduled Visit,2027-08-19
+Case,039-02-0228,Case/Ctrl - Month 39,2027-08-20
+PUI,039-02-1170,PUI Month 27,2027-09-16
+PUI,039-02-1171,PUI Month 15,2027-10-06
+PUI,039-02-1172,PUI Month 15,2027-10-13
+PUI,039-18-1295,PUI Month 36,2027-10-14
+PUI,039-02-1173,PUI Month 15,2027-10-15
+PUI,039-02-1174,PUI Month 15,2027-10-15
+PUI,039-18-1084,PUI Month 54,2027-10-18
+PUI,039-18-1140,PUI Month 51,2027-10-21
+PUI,039-18-1257_1,PUI Month 39,2027-10-21
+PUI,039-02-1175,PUI Month 15,2027-10-27
+PUI,039-02-1176,PUI Month 15,2027-10-28
+Case,039-02-0227,Case/Ctrl - Month 42,2027-11-01
+PUI,039-02-1102,PUI Month 48,2027-11-05
+PUI,039-13-1024,PUI Month 36,2027-11-05
+PUI,039-18-1162,PUI Month 48,2027-11-15
+Case,039-02-0191,Unscheduled Visit,2027-11-16
+Case,039-02-0228,Case/Ctrl - Month 42,2027-11-19
+PUI,039-02-1170,PUI Month 30,2027-12-16
+PUI,039-02-1171,PUI Month 18,2028-01-05
+PUI,039-02-1172,PUI Month 18,2028-01-12
+PUI,039-18-1295,PUI Month 39,2028-01-13
+PUI,039-02-1173,PUI Month 18,2028-01-14
+PUI,039-02-1174,PUI Month 18,2028-01-14
+PUI,039-18-1084,PUI Month 57,2028-01-17
+PUI,039-18-1140,PUI Month 54,2028-01-20
+PUI,039-18-1257_1,PUI Month 42,2028-01-20
+PUI,039-02-1175,PUI Month 18,2028-01-26
+PUI,039-02-1176,PUI Month 18,2028-01-27
+Case,039-02-0227,Case/Ctrl - Month 45,2028-01-31
+PUI,039-02-1102,PUI Month 51,2028-02-04
+PUI,039-13-1024,PUI Month 39,2028-02-04
+PUI,039-18-1162,PUI Month 51,2028-02-14
+Case,039-02-0228,Case/Ctrl - Month 45,2028-02-18
+PUI,039-02-1170,PUI Month 33,2028-03-16
+PUI,039-02-1171,PUI Month 21,2028-04-05
+PUI,039-02-1172,PUI Month 21,2028-04-12
+PUI,039-18-1295,PUI Month 42,2028-04-13
+PUI,039-02-1173,PUI Month 21,2028-04-14
+PUI,039-02-1174,PUI Month 21,2028-04-14
+PUI,039-18-1084,PUI Month 60,2028-04-17
+PUI,039-18-1140,PUI Month 57,2028-04-20
+PUI,039-18-1257_1,PUI Month 45,2028-04-20
+PUI,039-02-1175,PUI Month 21,2028-04-26
+PUI,039-02-1176,PUI Month 21,2028-04-27
+Case,039-02-0227,Case/Ctrl - Month 48,2028-05-01
+PUI,039-02-1102,PUI Month 54,2028-05-05
+PUI,039-13-1024,PUI Month 42,2028-05-05
+PUI,039-18-1162,PUI Month 54,2028-05-15
+Case,039-02-0228,Case/Ctrl - Month 48,2028-05-19
+PUI,039-02-1170,PUI Month 36,2028-06-15
+PUI,039-02-1171,PUI Month 24,2028-07-05
+PUI,039-02-1172,PUI Month 24,2028-07-12
+PUI,039-18-1295,PUI Month 45,2028-07-13
+PUI,039-02-1173,PUI Month 24,2028-07-14
+PUI,039-02-1174,PUI Month 24,2028-07-14
+PUI,039-18-1140,PUI Month 60,2028-07-20
+PUI,039-18-1257_1,PUI Month 48,2028-07-20
+PUI,039-02-1175,PUI Month 24,2028-07-26
+PUI,039-02-1176,PUI Month 24,2028-07-27
+Case,039-02-0227,Case/Ctrl - Month 51,2028-07-31
+PUI,039-02-1102,PUI Month 57,2028-08-04
+PUI,039-13-1024,PUI Month 45,2028-08-04
+PUI,039-18-1162,PUI Month 57,2028-08-14
+Case,039-02-0228,Case/Ctrl - Month 51,2028-08-18
+PUI,039-02-1170,PUI Month 39,2028-09-14
+PUI,039-02-1171,PUI Month 27,2028-10-04
+PUI,039-02-1172,PUI Month 27,2028-10-11
+PUI,039-18-1295,PUI Month 48,2028-10-12
+PUI,039-02-1173,PUI Month 27,2028-10-13
+PUI,039-02-1174,PUI Month 27,2028-10-13
+PUI,039-18-1257_1,PUI Month 51,2028-10-19
+PUI,039-18-1084,Unscheduled Visit,2028-10-23
+PUI,039-02-1175,PUI Month 27,2028-10-25
+PUI,039-02-1176,PUI Month 27,2028-10-26
+Case,039-02-0227,Case/Ctrl - Month 54,2028-10-30
+PUI,039-02-1102,PUI Month 60,2028-11-03
+PUI,039-13-1024,PUI Month 48,2028-11-03
+PUI,039-18-1162,PUI Month 60,2028-11-13
+Case,039-02-0228,Case/Ctrl - Month 54,2028-11-17
+PUI,039-02-1170,PUI Month 42,2028-12-14
+PUI,039-02-1171,PUI Month 30,2029-01-03
+PUI,039-02-1172,PUI Month 30,2029-01-10
+PUI,039-18-1295,PUI Month 51,2029-01-11
+PUI,039-02-1173,PUI Month 30,2029-01-12
+PUI,039-02-1174,PUI Month 30,2029-01-12
+PUI,039-18-1257_1,PUI Month 54,2029-01-18
+PUI,039-02-1175,PUI Month 30,2029-01-24
+PUI,039-18-1140,Unscheduled Visit,2029-01-25
+PUI,039-02-1176,PUI Month 30,2029-01-25
+Case,039-02-0227,Case/Ctrl - Month 57,2029-01-29
+PUI,039-13-1024,PUI Month 51,2029-02-02
+Case,039-02-0228,Case/Ctrl - Month 57,2029-02-16
+PUI,039-02-1170,PUI Month 45,2029-03-15
+PUI,039-02-1171,PUI Month 33,2029-04-04
+PUI,039-02-1172,PUI Month 33,2029-04-11
+PUI,039-18-1295,PUI Month 54,2029-04-12
+PUI,039-02-1173,PUI Month 33,2029-04-13
+PUI,039-02-1174,PUI Month 33,2029-04-13
+PUI,039-18-1257_1,PUI Month 57,2029-04-19
+PUI,039-02-1175,PUI Month 33,2029-04-25
+PUI,039-02-1176,PUI Month 33,2029-04-26
+Case,039-02-0227,Case/Ctrl - Month 60,2029-04-30
+PUI,039-13-1024,PUI Month 54,2029-05-04
+PUI,039-02-1102,Unscheduled Visit,2029-05-11
+Case,039-02-0228,Case/Ctrl - Month 60,2029-05-18
+PUI,039-18-1162,Unscheduled Visit,2029-05-21
+PUI,039-02-1170,PUI Month 48,2029-06-14
+Controls,039-11-2141,Unscheduled Visit,2029-06-22
+PUI,039-02-1171,PUI Month 36,2029-07-04
+PUI,039-02-1172,PUI Month 36,2029-07-11
+PUI,039-18-1295,PUI Month 57,2029-07-12
+PUI,039-02-1173,PUI Month 36,2029-07-13
+PUI,039-02-1174,PUI Month 36,2029-07-13
+PUI,039-18-1257_1,PUI Month 60,2029-07-19
+PUI,039-02-1175,PUI Month 36,2029-07-25
+PUI,039-02-1176,PUI Month 36,2029-07-26
+PUI,039-13-1024,PUI Month 57,2029-08-03
+PUI,039-02-1170,PUI Month 51,2029-09-13
+PUI,039-02-1171,PUI Month 39,2029-10-03
+PUI,039-02-1172,PUI Month 39,2029-10-10
+PUI,039-18-1295,PUI Month 60,2029-10-11
+PUI,039-02-1173,PUI Month 39,2029-10-12
+PUI,039-02-1174,PUI Month 39,2029-10-12
+PUI,039-02-1175,PUI Month 39,2029-10-24
+PUI,039-02-1176,PUI Month 39,2029-10-25
+PUI,039-13-1024,PUI Month 60,2029-11-02
+Case,039-02-0227,Unscheduled Visit,2029-11-05
+Case,039-02-0228,Unscheduled Visit,2029-11-23
+PUI,039-02-1170,PUI Month 54,2029-12-13
+PUI,039-02-1171,PUI Month 42,2030-01-02
+PUI,039-02-1172,PUI Month 42,2030-01-09
+PUI,039-02-1173,PUI Month 42,2030-01-11
+PUI,039-02-1174,PUI Month 42,2030-01-11
+PUI,039-02-1175,PUI Month 42,2030-01-23
+PUI,039-18-1257_1,Unscheduled Visit,2030-01-24
+PUI,039-02-1176,PUI Month 42,2030-01-24
+PUI,039-02-1170,PUI Month 57,2030-03-14
+Controls,039-18-2165,Unscheduled Visit,2030-03-15
+Controls,039-18-2163,Unscheduled Visit,2030-03-15
+Controls,039-18-2164,Unscheduled Visit,2030-03-15
+Controls,039-18-2162,Unscheduled Visit,2030-03-15
+PUI,039-02-1171,PUI Month 45,2030-04-03
+PUI,039-02-1172,PUI Month 45,2030-04-10
+PUI,039-02-1173,PUI Month 45,2030-04-12
+PUI,039-02-1174,PUI Month 45,2030-04-12
+PUI,039-18-1295,Unscheduled Visit,2030-04-18
+PUI,039-02-1175,PUI Month 45,2030-04-24
+PUI,039-02-1176,PUI Month 45,2030-04-25
+PUI,039-13-1024,Unscheduled Visit,2030-05-10
+PUI,039-02-1170,PUI Month 60,2030-06-13
+PUI,039-02-1171,PUI Month 48,2030-07-03
+PUI,039-02-1172,PUI Month 48,2030-07-10
+PUI,039-02-1173,PUI Month 48,2030-07-12
+PUI,039-02-1174,PUI Month 48,2030-07-12
+PUI,039-02-1175,PUI Month 48,2030-07-24
+PUI,039-02-1176,PUI Month 48,2030-07-25
+PUI,039-02-1171,PUI Month 51,2030-10-02
+PUI,039-02-1172,PUI Month 51,2030-10-09
+PUI,039-02-1173,PUI Month 51,2030-10-11
+PUI,039-02-1174,PUI Month 51,2030-10-11
+PUI,039-02-1175,PUI Month 51,2030-10-23
+PUI,039-02-1176,PUI Month 51,2030-10-24
+PAEDS,039-09-8170,Unscheduled Visit,2030-11-07
+PAEDS,039-09-8171,Unscheduled Visit,2030-11-20
+PAEDS,039-09-8172,Unscheduled Visit,2030-11-28
+PUI,039-02-1170,Unscheduled Visit,2030-12-19
+PUI,039-02-1171,PUI Month 54,2031-01-01
+PUI,039-02-1172,PUI Month 54,2031-01-08
+PUI,039-02-1173,PUI Month 54,2031-01-10
+PUI,039-02-1174,PUI Month 54,2031-01-10
+PUI,039-02-1175,PUI Month 54,2031-01-22
+PUI,039-02-1176,PUI Month 54,2031-01-23
+Controls,039-02-2168,Unscheduled Visit,2031-03-27
+Controls,039-02-2166,Unscheduled Visit,2031-03-27
+Controls,039-02-2169,Unscheduled Visit,2031-03-27
+Controls,039-02-2167,Unscheduled Visit,2031-03-27
+Controls,039-02-2165,Unscheduled Visit,2031-03-28
+Controls,039-02-2170,Unscheduled Visit,2031-03-28
+Controls,039-02-2171,Unscheduled Visit,2031-03-28
+Controls,039-02-2172,Unscheduled Visit,2031-03-28
+Controls,039-02-2174,Unscheduled Visit,2031-03-31
+Controls,039-02-2173,Unscheduled Visit,2031-03-31
+Controls,039-02-2175,Unscheduled Visit,2031-04-01
+Controls,039-02-2176,Unscheduled Visit,2031-04-02
+PUI,039-02-1171,PUI Month 57,2031-04-02
+Controls,039-02-2177,Unscheduled Visit,2031-04-03
+Controls,039-02-2179,Unscheduled Visit,2031-04-04
+Controls,039-02-2178,Unscheduled Visit,2031-04-04
+Controls,039-02-2180,Unscheduled Visit,2031-04-07
+Controls,039-02-2182,Unscheduled Visit,2031-04-07
+Controls,039-02-2181,Unscheduled Visit,2031-04-07
+Controls,039-02-2183,Unscheduled Visit,2031-04-08
+Controls,039-02-2184,Unscheduled Visit,2031-04-08
+Controls,039-02-2186,Unscheduled Visit,2031-04-08
+Controls,039-02-2188,Unscheduled Visit,2031-04-09
+Controls,039-02-2187,Unscheduled Visit,2031-04-09
+PUI,039-02-1172,PUI Month 57,2031-04-09
+Controls,039-02-2190,Unscheduled Visit,2031-04-10
+Controls,039-02-2191,Unscheduled Visit,2031-04-10
+Controls,039-02-2189,Unscheduled Visit,2031-04-10
+Controls,039-02-2192,Unscheduled Visit,2031-04-10
+PUI,039-02-1173,PUI Month 57,2031-04-11
+PUI,039-02-1174,PUI Month 57,2031-04-11
+Controls,039-02-2194,Unscheduled Visit,2031-04-14
+Controls,039-02-2193,Unscheduled Visit,2031-04-14
+Controls,039-02-2195,Unscheduled Visit,2031-04-22
+Controls,039-02-2196,Unscheduled Visit,2031-04-22
+PUI,039-02-1175,PUI Month 57,2031-04-23
+PUI,039-02-1176,PUI Month 57,2031-04-24
+Controls,039-02-2197,Unscheduled Visit,2031-04-25
+PUI,039-02-1171,PUI Month 60,2031-07-02
+PUI,039-02-1172,PUI Month 60,2031-07-09
+PUI,039-02-1173,PUI Month 60,2031-07-11
+PUI,039-02-1174,PUI Month 60,2031-07-11
+PUI,039-02-1175,PUI Month 60,2031-07-23
+PUI,039-02-1176,PUI Month 60,2031-07-24
+PUI,039-02-1171,Unscheduled Visit,2032-01-07
+PUI,039-02-1172,Unscheduled Visit,2032-01-14
+PUI,039-02-1173,Unscheduled Visit,2032-01-16
+PUI,039-02-1174,Unscheduled Visit,2032-01-16
+PUI,039-02-1175,Unscheduled Visit,2032-01-28
+PUI,039-02-1176,Unscheduled Visit,2032-01-29
